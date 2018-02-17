@@ -13,8 +13,8 @@ title                    : "CSCI376 Project"
 title_separator          : "-"
 name                     : "Stephanie Liu, Joyce Wang, Cliff Makanada"
 description              : "Art for All"
-url                      : "http://stephanieliu.me/hciproject"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "http://stephanieliu.me"
+baseurl                  : "/hciproject"
 repository               : sliuu/hciproject
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
