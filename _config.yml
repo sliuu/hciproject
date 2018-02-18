@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Art for All"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.png"
   bio              : ""
   location         : "Williams College"
   email            :
