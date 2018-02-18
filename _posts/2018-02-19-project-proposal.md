@@ -4,6 +4,7 @@ layout: single
 header:
   overlay_image: /assets/images/art-museum.jpg
   caption: "Photo Credit: [The New York Pass: MoMA](https://www.newyorkpass.com/new-york-attractions/museum-of-modern-art-moma.html)"
+excerpt: "On a recent visit to MASS MoCA, I came across Tanja Hollander’s “Are you really my friend?” exhibit. At the end of the exhibit, there’s a room with a wall of post-it notes trying to answer the question “What is a true friend?”. Next to the wall, there are a few sofas and desks, and a stack of post-it notes for museum-goers to add on to the collection."
 ---
 
 ## Motivation
