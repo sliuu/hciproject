@@ -1,6 +1,8 @@
 ---
 title: Project Proposal
 layout: single
+header:
+  image: /assets/images/art-museum.jpg
 ---
 
 ## Motivation
@@ -8,7 +10,7 @@ layout: single
 On a recent visit to MASS MoCA, I came across Tanja Hollander’s “Are you really my friend?” exhibit. <sup>[1]</sup> At the end of the exhibit, there’s a room with a wall of post-it notes trying to answer the question “What is a true friend?”. Next to the wall, there are a few sofas and desks, and a stack of post-it notes for museum-goers to add on to the collection. As I watched other people in the room sit down and scribble down thoughts, I was struck by just how accessible this exhibit was. Everyone could relate to it, and even kids were jotting down ideas and contributing to the process. Our proposal builds off this idea of breaking down the elusive nature of art engagement and creating a more interactive and inclusive experience.
 
 <figure>
-<img src="../img/massmoca.jpg" alt="Mass MoCA post its" style="max-width: 100%;"/>
+<img src="../assets/images/massmoca.jpg" alt="Mass MoCA post its" style="max-width: 100%;"/>
 <figcaption>Post-its at the MASS MoCA exhibit<sup>[1]</sup></figcaption>
 </figure>
 
@@ -33,3 +35,10 @@ Since art is never meant to be a solitary but a social human experience, the “
 This space allows the art museum experience to move from a conversation between the curator and the museum-goer, to a conversation between “regular people.” It allows users to learn about art through the experiences of other people, which is valuable to an understanding of what art is. We don’t want our museums to feel “stuffy” and pretentious; that’s how we end up with a homogenous museum-going base. It also allows users to feel connected to art, by allowing them to define their individuality in finding specific pieces more impactful, saving those pieces, and being able to go back and look at their collection later.
 
 
+## Sources
+
+1: ["Tanja Hollander, Are you really my friend?": MassMoCA](http://massmoca.org/event/tanja-hollander/)
+
+2: ["Does the art world have a demographics problem?": Big Think](http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem)  
+
+Header Image: [University of Maine Museum of Art](https://umma.umaine.edu/)
