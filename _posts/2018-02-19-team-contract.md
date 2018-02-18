@@ -3,7 +3,7 @@ title: Team Contract
 layout: single
 header:
   overlay_color: "#333"
-excerpt: "The group will communicate through GroupMe and/or Facebook Messenger. Urgent matters may be communicated through email. Joyce has commitments for NBC at night, so we’ll usually meet during the day. We are sharing our Google Calendars so we get an idea of when we’re all free. Our goal is to create a great project we’re proud of in the end!"
+excerpt: ""
 ---
 
 ## 1. TEAM CONTACT INFORMATION
