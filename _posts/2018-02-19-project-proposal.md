@@ -1,6 +1,6 @@
 ---
 title: Project Proposal
-layout: default
+layout: single
 ---
 
 ## Motivation
