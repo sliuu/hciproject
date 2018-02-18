@@ -2,7 +2,8 @@
 title: Project Proposal
 layout: single
 header:
-  image: /assets/images/art-museum.jpg
+  overlay_image: /assets/images/art-museum.jpg
+  caption: "Photo Credit: [The New York Pass: MoMA](https://www.newyorkpass.com/new-york-attractions/museum-of-modern-art-moma.html)"
 ---
 
 ## Motivation
@@ -41,4 +42,3 @@ This space allows the art museum experience to move from a conversation between 
 
 2: ["Does the art world have a demographics problem?": Big Think](http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem)  
 
-Header Image: [University of Maine Museum of Art](https://umma.umaine.edu/)
