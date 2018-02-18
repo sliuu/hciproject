@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CSCI376 Project"
+title                    : "CSCI376 Project: Art for All"
 title_separator          : "-"
 name                     : "Art for All"
 description              : "Collaborative platform for artistic engagement"

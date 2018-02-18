@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Course Page"
-    url: http://bit.ly/csci376
+  - title: "Project Proposal"
+    url: /project-proposal/
+  - title: "Team Contract"
+    url: /team-contract/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
