@@ -1,1 +1,141 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/hciproject/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hciproject/" rel="alternate" type="text/html" /><updated>2018-02-18T23:02:38-05:00</updated><id>http://localhost:4000/hciproject/</id><title type="html">CSCI376 Project: Art for All</title><subtitle>Collaborative platform for artistic engagement</subtitle><author><name>Art for All</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/hciproject/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hciproject/" rel="alternate" type="text/html" /><updated>2018-02-21T22:06:48-05:00</updated><id>http://localhost:4000/hciproject/</id><title type="html">CSCI376 Project: Art for All</title><subtitle>Collaborative platform for artistic engagement</subtitle><author><name>Art for All</name></author><entry><title type="html">Contextual Inquiry Plan</title><link href="http://localhost:4000/hciproject/contextual-inquiry-plan/" rel="alternate" type="text/html" title="Contextual Inquiry Plan" /><published>2018-02-21T00:00:00-05:00</published><updated>2018-02-21T00:00:00-05:00</updated><id>http://localhost:4000/hciproject/contextual-inquiry-plan</id><content type="html" xml:base="http://localhost:4000/hciproject/contextual-inquiry-plan/">&lt;p&gt;Our design aims to promote a more inclusive community centered around public art. Our target users are those who lack the formal background knowledge to more deeply appreciate and learn about art pieces seen in museums. 
+Providing a resource that allows people to learn more about and discuss art also creates a valuable information source for general use and research. The potentially multi-faceted application of our design broadens our users to include not only those who don’t know much about art but also those who do–such as art historians and the artists themselves. We plan to conduct contextual inquiries on the following subjects:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Professor Catherine Howe. Art history professors at Williams are not only passionate about but also have years of experience engaging and teaching students with no previous background in art. We have already reached out to this specific professor, and are currently awaiting a response. The interview will be conducted in the professor’s office sometime early next week.&lt;/li&gt;
+  &lt;li&gt;Liam Bardong. Liam has visited many museums in his lifetime and is interested in art, but feels he does not have the vocabulary to really dissect what he’s experiencing. Liam is friends with Joyce, so Cliff and Stephanie will conduct the interview.&lt;/li&gt;
+  &lt;li&gt;Random museum-goers. We plan to sit in a museum like MASS MoCA, and survey individuals who are carefully looking at art pieces. We will sit in the last room of Tanja Hollander’s exhibit; it provides a nice space with sofas and tables, allows conversation, and already provokes interaction with the art. We will also spend some time candidly observing people visiting the museum, and will record how often they stop to look at artworks and whether groups of visitors spend time discussing various artworks with each other.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;We will be conducting our interviews in multiple settings, as mentioned above. The location for the student interview will be Tunnel City because it provides a casual and familiar atmosphere, and features various artworks on the walls. We will use a semi-structured interview style, because we are still in the exploratory stage. We will start our interviews with a brief introduction to our project proposal, but then quickly steer the conversation to broader probing questions about the interviewee’s relationship to art. We will be observing people at the museum, but for the one-on-one interviews we will ask them questions about how often they engage with art, how they engage, what their opinions are on the art world, and what they’d like to learn about art. Potential questions include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How often do you visit museums?&lt;/li&gt;
+  &lt;li&gt;How much do you know about art?&lt;/li&gt;
+  &lt;li&gt;We will probe each interviewee with the same piece of art, and ask them what their first reactions are, to get a sense of how different people will comment on the art in the app.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For the Professor:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;How do you think people should look at art?&lt;/li&gt;
+  &lt;li&gt;What do you feel is the value in informal evaluations of art?&lt;/li&gt;
+  &lt;li&gt;How helpful are discussions to an understanding of art?&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Art for All</name></author><summary type="html">Our design aims to promote a more inclusive community centered around public art. Our target users are those who lack the formal background knowledge to more deeply appreciate and learn about art pieces seen in museums. Providing a resource that allows people to learn more about and discuss art also creates a valuable information source for general use and research. The potentially multi-faceted application of our design broadens our users to include not only those who don’t know much about art but also those who do–such as art historians and the artists themselves. We plan to conduct contextual inquiries on the following subjects:</summary></entry><entry><title type="html">Project Ideation</title><link href="http://localhost:4000/hciproject/project-ideation/" rel="alternate" type="text/html" title="Project Ideation" /><published>2018-02-19T00:00:00-05:00</published><updated>2018-02-19T00:00:00-05:00</updated><id>http://localhost:4000/hciproject/project-ideation</id><content type="html" xml:base="http://localhost:4000/hciproject/project-ideation/">&lt;figure&gt;
+&lt;img src=&quot;../assets/images/IMG_4274.jpeg&quot; alt=&quot;Joyce ideation&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Joyce's ideation pic&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/IMG_4275.jpeg&quot; alt=&quot;Cliff ideation&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Cliff's ideation pic&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/ideation-sliu1.jpg&quot; alt=&quot;Steph's ideation 1&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;img src=&quot;../assets/images/ideation-sliu2.jpg&quot; alt=&quot;Steph's ideation 2&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Stephanie's ideation pics&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name>Art for All</name></author></entry><entry><title type="html">Team Contract</title><link href="http://localhost:4000/hciproject/team-contract/" rel="alternate" type="text/html" title="Team Contract" /><published>2018-02-18T00:00:00-05:00</published><updated>2018-02-18T00:00:00-05:00</updated><id>http://localhost:4000/hciproject/team-contract</id><content type="html" xml:base="http://localhost:4000/hciproject/team-contract/">&lt;h2 id=&quot;1-team-contact-information&quot;&gt;1. TEAM CONTACT INFORMATION&lt;/h2&gt;
+
+&lt;p&gt;The group will communicate through GroupMe and/or Facebook Messenger. Urgent matters may be communicated through email. Joyce has commitments for NBC at night, so we’ll usually meet during the day. We are sharing our Google Calendars so we get an idea of when we’re all free. Our goal is to create a great project we’re proud of in the end!&lt;/p&gt;
+
+&lt;h2 id=&quot;2-guiding-principles&quot;&gt;2. GUIDING PRINCIPLES&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We will work as a team, and less as a working group.&lt;/li&gt;
+  &lt;li&gt;We will create a collaborative learning environment that is comfortable for everyone.&lt;/li&gt;
+  &lt;li&gt;We want everyone to feel satisfied with and proud of their individual contributions.&lt;/li&gt;
+  &lt;li&gt;We will be invested in the success of this project.&lt;/li&gt;
+  &lt;li&gt;We will put the team’s needs before individual needs (there’s no I in team!).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;3-preliminary-focus-on-purpose&quot;&gt;3. PRELIMINARY FOCUS ON PURPOSE&lt;/h2&gt;
+
+&lt;p&gt;The goal of this project is to bring art engagement to people who would otherwise be intimidated by art. We want to make art accessible by creating a user-friendly and welcoming platform for discussions. Our customer-base will be anyone who is familiar with tech and sees value in participating in online forums for art.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-group-roles&quot;&gt;4. GROUP ROLES&lt;/h2&gt;
+
+&lt;p&gt;We are all generalists and all members are expected to prepare for meetings, participate in meetings, complete assigned tasks, and support the efforts of other team members.&lt;/p&gt;
+
+&lt;p&gt;Group roles will be assigned on a case-by-case basis. They will be determined by assigned tasks. Every member is a leader and should conduct themselves as such. It is the responsibility of all members to be aware of what needs to be done.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-dividing-up-the-task--the-division-of-labor&quot;&gt;5. DIVIDING UP THE TASK:  THE DIVISION OF LABOR&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tasks will be divided according to expressed strengths and weaknesses, or desires.&lt;/li&gt;
+  &lt;li&gt;We will divide the work by action items/deadlines and balance among members.&lt;/li&gt;
+  &lt;li&gt;Everyone should contribute equally, but members are encouraged to volunteer for the assignments they are most interested in or think they can contribute the most to.&lt;/li&gt;
+  &lt;li&gt;Everyone will work to look over finished assignments or projects before the final push.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;6-team-plan&quot;&gt;6. TEAM PLAN&lt;/h2&gt;
+
+&lt;p&gt;At the beginning of every meeting we will set-up a weekly plan. This plan will depend on the project requirements of the professor, and the assigned tasks.&lt;/p&gt;
+
+&lt;h2 id=&quot;7-meeting-management&quot;&gt;7. MEETING MANAGEMENT&lt;/h2&gt;
+
+&lt;p&gt;We will meet as needed, but at least once a week. The location of the meeting will be determined through GroupMe and/or at the previous meeting. Meetings will be scheduled according to common free times in the Google Calendar, and the length will be determined by the tasks to be addressed. Attendance is mandatory. It is the responsibility of members to communicate ahead of time if they are to be late or will miss a scheduled meeting.&lt;/p&gt;
+
+&lt;p&gt;During meetings we will reinforce positive attitudes and constructively deal with problems. The focus of the task will be determined by the requirements and direction of the class instructor. Members are encouraged to offer constructive suggestions, comments and criticism. One person will talk at a time. Group members should pay attention and stick to the agenda at hand. All members will contribute to the meeting. Decisions are determined by majority rule. Conflicts will be solved through negotiation and understanding.&lt;/p&gt;
+
+&lt;h2 id=&quot;8-accountability-process&quot;&gt;8. ACCOUNTABILITY PROCESS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Completed tasks are presented at the beginning of every meeting.&lt;/li&gt;
+  &lt;li&gt;If a group member encounters a challenge while completing a task, they should inform other members before the next meeting.&lt;/li&gt;
+  &lt;li&gt;If a group member is unable to complete a task before a set meeting, he/she should inform the others with plenty of time in advance.&lt;/li&gt;
+  &lt;li&gt;We will schedule intermediate peer review meetings for larger projects.&lt;/li&gt;
+  &lt;li&gt;Project benchmarks will be task specific and will be determined on a case-by-case basis. They are assigned at the conclusion of every meeting. Members are expected to meet and/or exceed benchmarks.&lt;/li&gt;
+  &lt;li&gt;Completed tasks are reviewed by all group members at the beginning of every meeting.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;9-rewards-and-punishments&quot;&gt;9. REWARDS AND PUNISHMENTS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The group will accept feedback both negative and positive.&lt;/li&gt;
+  &lt;li&gt;Points will be determined by member contribution which we expect to be equal.&lt;/li&gt;
+  &lt;li&gt;We will celebrate team success through high fives.&lt;/li&gt;
+  &lt;li&gt;We reward individual initiative and contribution by giving compliments.&lt;/li&gt;
+  &lt;li&gt;We handle non-performance and failure to meet commitments through communication. All group members should be open to constructive criticism.&lt;/li&gt;
+  &lt;li&gt;Behavior that disrupts group function should be communicated and addressed during group meetings, and can be brought up by anyone in the team.&lt;/li&gt;
+  &lt;li&gt;Negative internal feedback should not be viewed as personal, and is meant to improve the performance of the team as a whole. External feedback applies to all group members, not any particular member.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;10-follow-up&quot;&gt;10. FOLLOW-UP&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The contract will be revised as the team majority sees fit.&lt;/li&gt;
+  &lt;li&gt;Issues that are not covered in the contract will be decided through majority rule, and they will be incorporated into the contract.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Art for All</name></author></entry><entry><title type="html">Project Proposal</title><link href="http://localhost:4000/hciproject/project-proposal/" rel="alternate" type="text/html" title="Project Proposal" /><published>2018-02-18T00:00:00-05:00</published><updated>2018-02-18T00:00:00-05:00</updated><id>http://localhost:4000/hciproject/project-proposal</id><content type="html" xml:base="http://localhost:4000/hciproject/project-proposal/">&lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
+
+&lt;p&gt;On a recent visit to MASS MoCA, I came across Tanja Hollander’s “Are you really my friend?” exhibit. &lt;sup&gt;[1]&lt;/sup&gt; At the end of the exhibit, there’s a room with a wall of post-it notes trying to answer the question “What is a true friend?”. Next to the wall, there are a few sofas and desks, and a stack of post-it notes for museum-goers to add on to the collection. As I watched other people in the room sit down and scribble down thoughts, I was struck by just how accessible this exhibit was. Everyone could relate to it, and even kids were jotting down ideas and contributing to the process. Our proposal builds off this idea of breaking down the elusive nature of art engagement and creating a more interactive and inclusive experience.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/massmoca.jpg&quot; alt=&quot;Mass MoCA post its&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Post-its at the MASS MoCA exhibit&lt;sup&gt;[1]&lt;/sup&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
+
+&lt;p&gt;Art provides a medium for self-expression that relates people and their experiences in an inherently human way. Art museums, a primary resource for learning about and experiencing art, are meant to invite the general public and people to engage in this creative dialogue. However, this conversation about art can feel intimidatingly inaccessible for the general public. For regular people, who aren’t academics or involved in the “art world,” art can feel elusive, out-of-touch, or even perhaps just confusing. In fact, the homogeneity of the art world is a well-documented and studied problem, where “among those who frequented art museums, a stunning 92 percent identified as white, and only 16 percent identified as a minority.”&lt;sup&gt;[2]&lt;/sup&gt;  Without a formal introduction to art, which is generally only available to the privileged, it’s hard to glean a lot of insight from the works in front of you. Part of this problem is both the little information provided by the display of works at museums and the lack of informal resources for engaging in conversations about art.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-proposal&quot;&gt;The Proposal&lt;/h2&gt;
+
+&lt;p&gt;Our proposal aims at exploring new ways to interact with art by allowing users to share experiences and information about the pieces through a digital platform. While looking around at museums, users can, with their phones, take a picture of a piece of art (or simply type in the name) and pull up that piece of art’s “profile” on their mobile device.&lt;br /&gt;
+The profile would serve to provide any lacking foundational background information about the piece and facilitate social discussion for forming new outlooks and perspectives about the art.&lt;/p&gt;
+
+&lt;h2 id=&quot;background-information&quot;&gt;Background information&lt;/h2&gt;
+
+&lt;p&gt;While the placards and artists bios displayed with works at museums are helpful, most pieces themselves only have a small placard listing the artist, date, and perhaps who it was donated by. We think many people would “understand” art better by learning about the artist’s motivations and intentions. This app would allow museum-goers to easily pull up background information about any piece of art, and thereby explore new art through a “related artists” section. Users could also learn about what this “genre” of art is, how/where/why it developed, and thereby begin to develop a vocabulary about art in general. The app could also offer suggestions based on what kinds of art the user has bookmarked, and thus allow the user to constantly explore new art even after they’ve left the museum.&lt;/p&gt;
+
+&lt;h3 id=&quot;social-discussion&quot;&gt;Social Discussion&lt;/h3&gt;
+
+&lt;p&gt;Since art is never meant to be a solitary but a social human experience, the “comments section” on a piece of art creates a space for informal discussion and creating new knowledge with other passionate individuals. Users can read comments from other users, make their own comment about how different pieces impact them their opinions, and save the piece (like a bookmark), or share it on social media.&lt;/p&gt;
+
+&lt;p&gt;This space allows the art museum experience to move from a conversation between the curator and the museum-goer, to a conversation between “regular people.” It allows users to learn about art through the experiences of other people, which is valuable to an understanding of what art is. We don’t want our museums to feel “stuffy” and pretentious; that’s how we end up with a homogenous museum-going base. It also allows users to feel connected to art, by allowing them to define their individuality in finding specific pieces more impactful, saving those pieces, and being able to go back and look at their collection later.&lt;/p&gt;
+
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
+
+&lt;p&gt;1: &lt;a href=&quot;http://massmoca.org/event/tanja-hollander/&quot;&gt;“Tanja Hollander, Are you really my friend?”: MassMoCA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2: &lt;a href=&quot;http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem&quot;&gt;“Does the art world have a demographics problem?”: Big Think&lt;/a&gt;&lt;/p&gt;</content><author><name>Art for All</name></author></entry></feed>
