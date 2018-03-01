@@ -23,4 +23,9 @@ var store = [{
         "excerpt":"SetupOur entire team went to MASS MoCA on Saturday and each interviewed a different demographic for about 30 minutes to an hour each.InterviewsGroup A:Demographic: Two students, aged 19 and 21, at MCLA and Worcester State University.Background: Both students had some experience with art, with one being only tangentially interested in...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/hciproject/contextual-inquiry-check-in/",
+        "teaser":null},{
+        "title": "Contextual Inquiry Review",
+        "excerpt":"Key Findings &amp; TakeawaysWe have thus far conducted four different interviews, and are planning on at least one more by the end of the week. We’ve uncovered a lot of information about people’s experience with art in the process. We learned that people often view art in relation to their...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/hciproject/contextual-inquiry-review/",
         "teaser":null}]
