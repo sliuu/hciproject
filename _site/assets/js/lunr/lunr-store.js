@@ -28,4 +28,9 @@ var store = [{
         "excerpt":"Key Findings &amp; TakeawaysWe have thus far conducted four different interviews, and are planning on at least one more by the end of the week. We’ve uncovered a lot of information about people’s experience with art in the process. We learned that people often view art in relation to their...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/hciproject/contextual-inquiry-review/",
+        "teaser":null},{
+        "title": "Task Review",
+        "excerpt":"Existing Tasks:Reading placards and finding background information about artworks - Hard taskElliot is a junior majoring in history at Amherst. He likes going to museums to learn about history from a visual perspective, and he decides to attend a local art museum on the weekend. He sees an 18th century...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/hciproject/task-review/",
         "teaser":null}]
