@@ -25,13 +25,17 @@ Caroline is a flight attendant for a major airline company. Every now and then s
 ### 6. _Favoriting artworks_ - Easy task
 Chelsea is an avid art-lover, and loves visiting art museums in her spare time. She visits a new museum that just opened in her city, and stumbles upon a painting that she is immediately entranced by. She wants to remember this artwork somehow, so that she can look back on it later and remember how it made her feel. She uses the app to navigate to the painting’s profile and “favorite” it. That night at home, she thinks more about the painting and other artworks that have impacted her. She pulls up the app to see all of the artworks she’s favorited in the past. She goes through some of them, and nostalgically remembers how she felt at each time, and even thinks about the context in her life when each of these artworks was particularly meaningful to her. As she scrolls through, she notices that most of the artworks she’s favorited have been paintings and abstract art, and feels like she’s learned something about her own personal style of expression through this.
 
+## Extra Tasks:
+### 7. _Breaking down formal art interpretations into understandable terms_ - Hard task
+
+Syd has had no formal experience studying art and so is not familiar with the formal terms used to describe art. However, she enjoys going to art museums on the weekend with her friends. On one visit, the pamphlets about the artworks use a lot of formal language she doesn’t understand. She asks her friends what they mean. However, there are some parts that are not understandable to her friends either. In these cases, she uses her phone to google each term, and after identifying appropriate definitions, she is able to piece together what the pamphlet is talking about.
+
 ## First Design
 
 <figure>
 <img src="../assets/images/steph-sketch-1.jpg" alt="Stephanie’s Sketch" style="max-width: 100%;"/>
 <figcaption>Sketch of first design</figcaption>
 </figure>
-
 
 **Tasks:** Background information, contexts, discussion, favoriting, and remembering
 
@@ -49,7 +53,7 @@ Chelsea is an avid art-lover, and loves visiting art museums in her spare time. 
 **Tasks:** finding background information, breaking down formal art terms, getting more context,
 artist communicating with people about the work
 
-**Main Design:** The design is museum-centric. The mobile application is museum-specific and primarily for real-time use while visiting museums. The design allows users to more easily access information about art pieces that are sometimes available in museums, currently in the form of wall text and pamphlets, but now more directly in a centralized source. It provides streamlined, simple information about the piece. This design provides a text search option, a QR code search option, favorites page, and location-based map of the museum.
+**Main Design:** This design is museum-centric. The mobile application is museum-specific and primarily for real-time use while visiting museums. The design allows users to more easily access information about art pieces that are sometimes available in museums, currently in the form of wall text and pamphlets, but now more directly in a centralized source. It provides streamlined, simple information about the piece. This design provides a text search option, a QR code search option, favorites page, and a location-based map of the museum.
 
 <figure>
 <img src="../assets/images/joyce-sketch-1.jpg" alt="Joyce’s Sketch" style="max-width: 100%;"/>
@@ -57,7 +61,7 @@ artist communicating with people about the work
 </figure>
 
 **(Task 1) Reading placards and finding background information about artworks:**
-The search and QR scan options allow users to quickly find the pages for artworks. All artwork pages include an image of the work and ID information, such as title, artist, date, etc.
+The search and QR scan options allow users to quickly find the pages for artworks. All artwork pages include an image of the work and ID information, such as title, artist, date, etc, that might usually be placed on placards.
 
 <figure>
 <img src="../assets/images/joyce-sketch-2.jpg" alt="Joyce’s Sketch 2" style="max-width: 100%;"/>
@@ -65,9 +69,9 @@ The search and QR scan options allow users to quickly find the pages for artwork
 </figure>
 
 **(Task 2) Understanding more context about art pieces:**
-Scrolling down the Artwork Page is a two-tab menu option between “Description,” a brief analysis/explanation of the work and “Artist,” an artist’s statement on the piece.
+Scrolling down the Artwork Page reveals a two-tab menu option with “Description” (a brief analysis/explanation of the work) and “Artist” (an artist’s statement on the piece).
 
-**(Task 3) Breaking down formal art interpretations into understandable terms:**
+**(Task 7) Breaking down formal art interpretations into understandable terms:**
 The description includes links to basic terms, such as “Surrealism,” which links to a nested page with a definition of the term in easy-to-understand language.
 
 **(Task 4) Artist communicating to people interested in her work:**
@@ -86,7 +90,7 @@ The artist tab includes what the artist would like his/her audience to know abou
 
 **(Task 4) Understanding Context:** The page shows an artist’s profile. It goes into more depth than the traditional placard. At the top of the page is the artists name, below that we have the image of the artist. The image is followed by a link to the artist’s works. A brief but thorough description of the artist forms the main content of the page. A museum goer like Logan who wants to get more context about an artwork can get more context about an artwork by getting insights from the artists biography. It might lead to helpful insights. 
 
-**(Tasks 1 & 4) Background Information and Context:** After clicking the “works” link indicated above a user is presented with a picture gallery of all the works by an artist. A user like Elliot who wants to understand the background of an artwork can see an artist’s work in conversation with other works by the same artist. Clicking on an artwork lead to a page about the artwork and offers more detail and context.
+**(Tasks 1) Background Information:** After clicking the “works” link indicated above, a user is presented with a picture gallery of all the works by an artist. A user like Elliot who wants to understand the background of an artwork can see an artist’s work in conversation with other works by the same artist. Clicking on an artwork lead to a page about the artwork and offers more detail and context.
 
 **(Task 2) Discussion with fellow museum-goers:** Below an artwork’s description is a chat bubble with a link that leads to  a digital space that fosters discussion among the artist and museum-goers. The user is able to ask question about an artwork and respond to other users. 
 

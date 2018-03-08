@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/hciproject/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hciproject/" rel="alternate" type="text/html" /><updated>2018-03-07T20:16:51-05:00</updated><id>http://localhost:4000/hciproject/</id><title type="html">CSCI376 Project: Art for All</title><subtitle>Collaborative platform for artistic engagement</subtitle><author><name>Art for All</name></author><entry><title type="html">Project Design Check-In (“3x4”)</title><link href="http://localhost:4000/hciproject/project-design-check-in-3-x-4/" rel="alternate" type="text/html" title="Project Design Check-In (“3x4”)" /><published>2018-03-07T00:00:00-05:00</published><updated>2018-03-07T00:00:00-05:00</updated><id>http://localhost:4000/hciproject/project-design-check-in-3-x-4</id><content type="html" xml:base="http://localhost:4000/hciproject/project-design-check-in-3-x-4/">&lt;h2 id=&quot;existing-tasks&quot;&gt;Existing Tasks:&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/hciproject/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hciproject/" rel="alternate" type="text/html" /><updated>2018-03-07T23:46:03-05:00</updated><id>http://localhost:4000/hciproject/</id><title type="html">CSCI376 Project: Art for All</title><subtitle>Collaborative platform for artistic engagement</subtitle><author><name>Art for All</name></author><entry><title type="html">Project Design Check-In (“3x4”)</title><link href="http://localhost:4000/hciproject/project-design-check-in-3-x-4/" rel="alternate" type="text/html" title="Project Design Check-In (“3x4”)" /><published>2018-03-07T00:00:00-05:00</published><updated>2018-03-07T00:00:00-05:00</updated><id>http://localhost:4000/hciproject/project-design-check-in-3-x-4</id><content type="html" xml:base="http://localhost:4000/hciproject/project-design-check-in-3-x-4/">&lt;h2 id=&quot;existing-tasks&quot;&gt;Existing Tasks:&lt;/h2&gt;
 
 &lt;h3 id=&quot;1-reading-placards-and-finding-background-information-about-artworks---hard-task&quot;&gt;1. &lt;em&gt;Reading placards and finding background information about artworks&lt;/em&gt; - Hard task&lt;/h3&gt;
 &lt;p&gt;Elliot is a junior majoring in history at Amherst. He likes going to museums to learn about history from a visual perspective, and he decides to attend a local art museum on the weekend. He sees an 18th century piece he really likes and reads the placard, but it names only the artist, date, and title of the work, and there is only explanatory wall text for the featured exhibits. He appreciates the art for what it is but feels he is missing part of the puzzle by not knowing anything about the connection between the artist and the work, and especially the history behind it. He writes down the name of the artwork for later, and continues on. When he returns from the museum, he googles the title of the piece hoping to learn more about it. Unfortunately, the artwork he liked so much was made by a lesser-known artist, so there isn’t much on the Internet about it. He does find a few scholarly articles about the artist, but they’re filled with confusing language and art terminology that he doesn’t understand.&lt;/p&gt;
@@ -18,6 +18,11 @@
 
 &lt;h3 id=&quot;6-favoriting-artworks---easy-task&quot;&gt;6. &lt;em&gt;Favoriting artworks&lt;/em&gt; - Easy task&lt;/h3&gt;
 &lt;p&gt;Chelsea is an avid art-lover, and loves visiting art museums in her spare time. She visits a new museum that just opened in her city, and stumbles upon a painting that she is immediately entranced by. She wants to remember this artwork somehow, so that she can look back on it later and remember how it made her feel. She uses the app to navigate to the painting’s profile and “favorite” it. That night at home, she thinks more about the painting and other artworks that have impacted her. She pulls up the app to see all of the artworks she’s favorited in the past. She goes through some of them, and nostalgically remembers how she felt at each time, and even thinks about the context in her life when each of these artworks was particularly meaningful to her. As she scrolls through, she notices that most of the artworks she’s favorited have been paintings and abstract art, and feels like she’s learned something about her own personal style of expression through this.&lt;/p&gt;
+
+&lt;h2 id=&quot;extra-tasks&quot;&gt;Extra Tasks:&lt;/h2&gt;
+&lt;h3 id=&quot;7-breaking-down-formal-art-interpretations-into-understandable-terms---hard-task&quot;&gt;7. &lt;em&gt;Breaking down formal art interpretations into understandable terms&lt;/em&gt; - Hard task&lt;/h3&gt;
+
+&lt;p&gt;Syd has had no formal experience studying art and so is not familiar with the formal terms used to describe art. However, she enjoys going to art museums on the weekend with her friends. On one visit, the pamphlets about the artworks use a lot of formal language she doesn’t understand. She asks her friends what they mean. However, there are some parts that are not understandable to her friends either. In these cases, she uses her phone to google each term, and after identifying appropriate definitions, she is able to piece together what the pamphlet is talking about.&lt;/p&gt;
 
 &lt;h2 id=&quot;first-design&quot;&gt;First Design&lt;/h2&gt;
 
@@ -42,7 +47,7 @@
 &lt;p&gt;&lt;strong&gt;Tasks:&lt;/strong&gt; finding background information, breaking down formal art terms, getting more context,
 artist communicating with people about the work&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Main Design:&lt;/strong&gt; The design is museum-centric. The mobile application is museum-specific and primarily for real-time use while visiting museums. The design allows users to more easily access information about art pieces that are sometimes available in museums, currently in the form of wall text and pamphlets, but now more directly in a centralized source. It provides streamlined, simple information about the piece. This design provides a text search option, a QR code search option, favorites page, and location-based map of the museum.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main Design:&lt;/strong&gt; This design is museum-centric. The mobile application is museum-specific and primarily for real-time use while visiting museums. The design allows users to more easily access information about art pieces that are sometimes available in museums, currently in the form of wall text and pamphlets, but now more directly in a centralized source. It provides streamlined, simple information about the piece. This design provides a text search option, a QR code search option, favorites page, and a location-based map of the museum.&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;../assets/images/joyce-sketch-1.jpg&quot; alt=&quot;Joyce’s Sketch&quot; style=&quot;max-width: 100%;&quot; /&gt;
@@ -50,7 +55,7 @@ artist communicating with people about the work&lt;/p&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;(Task 1) Reading placards and finding background information about artworks:&lt;/strong&gt;
-The search and QR scan options allow users to quickly find the pages for artworks. All artwork pages include an image of the work and ID information, such as title, artist, date, etc.&lt;/p&gt;
+The search and QR scan options allow users to quickly find the pages for artworks. All artwork pages include an image of the work and ID information, such as title, artist, date, etc, that might usually be placed on placards.&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;../assets/images/joyce-sketch-2.jpg&quot; alt=&quot;Joyce’s Sketch 2&quot; style=&quot;max-width: 100%;&quot; /&gt;
@@ -58,9 +63,9 @@ The search and QR scan options allow users to quickly find the pages for artwork
 &lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;(Task 2) Understanding more context about art pieces:&lt;/strong&gt;
-Scrolling down the Artwork Page is a two-tab menu option between “Description,” a brief analysis/explanation of the work and “Artist,” an artist’s statement on the piece.&lt;/p&gt;
+Scrolling down the Artwork Page reveals a two-tab menu option with “Description” (a brief analysis/explanation of the work) and “Artist” (an artist’s statement on the piece).&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;(Task 3) Breaking down formal art interpretations into understandable terms:&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;(Task 7) Breaking down formal art interpretations into understandable terms:&lt;/strong&gt;
 The description includes links to basic terms, such as “Surrealism,” which links to a nested page with a definition of the term in easy-to-understand language.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;(Task 4) Artist communicating to people interested in her work:&lt;/strong&gt;
@@ -79,7 +84,7 @@ The artist tab includes what the artist would like his/her audience to know abou
 
 &lt;p&gt;&lt;strong&gt;(Task 4) Understanding Context:&lt;/strong&gt; The page shows an artist’s profile. It goes into more depth than the traditional placard. At the top of the page is the artists name, below that we have the image of the artist. The image is followed by a link to the artist’s works. A brief but thorough description of the artist forms the main content of the page. A museum goer like Logan who wants to get more context about an artwork can get more context about an artwork by getting insights from the artists biography. It might lead to helpful insights.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;(Tasks 1 &amp;amp; 4) Background Information and Context:&lt;/strong&gt; After clicking the “works” link indicated above a user is presented with a picture gallery of all the works by an artist. A user like Elliot who wants to understand the background of an artwork can see an artist’s work in conversation with other works by the same artist. Clicking on an artwork lead to a page about the artwork and offers more detail and context.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(Tasks 1) Background Information:&lt;/strong&gt; After clicking the “works” link indicated above, a user is presented with a picture gallery of all the works by an artist. A user like Elliot who wants to understand the background of an artwork can see an artist’s work in conversation with other works by the same artist. Clicking on an artwork lead to a page about the artwork and offers more detail and context.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;(Task 2) Discussion with fellow museum-goers:&lt;/strong&gt; Below an artwork’s description is a chat bubble with a link that leads to  a digital space that fosters discussion among the artist and museum-goers. The user is able to ask question about an artwork and respond to other users.&lt;/p&gt;
 
@@ -88,7 +93,7 @@ The artist tab includes what the artist would like his/her audience to know abou
 &lt;h2 id=&quot;citations&quot;&gt;Citations&lt;/h2&gt;
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.loc.gov/rr/print/list/128_migm.html&quot;&gt;Dorothea Lange’s “Migrant Mother” Photographs in the Farm Security Administration Collection: An Overview&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Art for All</name></author></entry><entry><title type="html">Task Review</title><link href="http://localhost:4000/hciproject/task-review/" rel="alternate" type="text/html" title="Task Review" /><published>2018-03-04T00:00:00-05:00</published><updated>2018-03-04T00:00:00-05:00</updated><id>http://localhost:4000/hciproject/task-review</id><content type="html" xml:base="http://localhost:4000/hciproject/task-review/">&lt;h2 id=&quot;existing-tasks&quot;&gt;Existing Tasks:&lt;/h2&gt;
+&lt;/ol&gt;</content><author><name>Art for All</name></author><summary type="html">“”</summary></entry><entry><title type="html">Task Review</title><link href="http://localhost:4000/hciproject/task-review/" rel="alternate" type="text/html" title="Task Review" /><published>2018-03-04T00:00:00-05:00</published><updated>2018-03-04T00:00:00-05:00</updated><id>http://localhost:4000/hciproject/task-review</id><content type="html" xml:base="http://localhost:4000/hciproject/task-review/">&lt;h2 id=&quot;existing-tasks&quot;&gt;Existing Tasks:&lt;/h2&gt;
 
 &lt;h3 id=&quot;reading-placards-and-finding-background-information-about-artworks---hard-task&quot;&gt;Reading placards and finding background information about artworks - Hard task&lt;/h3&gt;
 
