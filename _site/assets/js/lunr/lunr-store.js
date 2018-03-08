@@ -33,4 +33,9 @@ var store = [{
         "excerpt":"Existing Tasks:Reading placards and finding background information about artworks - Hard taskElliot is a junior majoring in history at Amherst. He likes going to museums to learn about history from a visual perspective, and he decides to attend a local art museum on the weekend. He sees an 18th century...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/hciproject/task-review/",
+        "teaser":null},{
+        "title": "Project Design Check-In (“3x4”)",
+        "excerpt":"Existing Tasks:1. Reading placards and finding background information about artworks - Hard taskElliot is a junior majoring in history at Amherst. He likes going to museums to learn about history from a visual perspective, and he decides to attend a local art museum on the weekend. He sees an 18th...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/hciproject/project-design-check-in-3-x-4/",
         "teaser":null}]
