@@ -1,6 +1,6 @@
 ---
 title: Project Design Review (“1x2”)
-excerpt: “”
+excerpt: ""
 ---
 
 ## Updated Design

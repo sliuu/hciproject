@@ -38,4 +38,9 @@ var store = [{
         "excerpt":"Existing Tasks:1. Reading placards and finding background information about artworks - Hard taskElliot is a junior majoring in history at Amherst. He likes going to museums to learn about history from a visual perspective, and he decides to attend a local art museum on the weekend. He sees an 18th...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/hciproject/project-design-check-in-3-x-4/",
+        "teaser":null},{
+        "title": "Project Design Review (“1x2”)",
+        "excerpt":"Updated DesignWe decided to combine parts of each of the first two designs in our final design. We decided to use the second museum-centered design as the basis for our app because when we did our contextual inquiries, we realized that most people don’t actually look at or find art...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/hciproject/Project-Design-Review/",
         "teaser":null}]
