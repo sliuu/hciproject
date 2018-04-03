@@ -1,0 +1,22 @@
+---
+title: Design Research Goals, Stakeholders, and Participants
+excerpt: ""
+---
+
+## Methods and Process
+
+We performed most of our inquiries as a combination of a semi-structured interview and a traditional contextual inquiry. Since our app is not meant to replace an existing practice as much as provide a new feature and aspect to engagement with art, we found that the traditional contextual inquiry would not be enough for us. Instead, we started our inquiries with semi-structured interviews to get a sense of the user and their experience with art and museums in generals, and then moved to simply observing what users would say to us in real time about different art pieces to glean some understanding of what kinds of questions they might want answered and what their perspective on different art pieces was. We conducted many of the interviews in MASS MoCA because we thought the setting might provide some helpful context and there was art readily available for use as probes. We tried to get as many different demographics as we could in our sample of participants. 
+
+## Design Research Participants
+
+Our first contextual inquiry participant was an Art History professor at the University of Rochester. We interviewed her at MASS MoCA while walking around some exhibits. We noticed her struggle with figuring out how best to navigate exhibits, as there weren’t good directions in the museum. She also noted that although she believes discussion can be helpful in understanding art, there should be some kind of direction in the conversation or else it devolves into speculation. We chose to interview an Art History professor because Art History professors at Williams are not only passionate about art but also have years of experience engaging and teaching students with no previous background in art. 
+
+Our second participant was actually a couple, two students from MCLA and Worcester State University. We interviewed them at MASS MoCA while walking around the James Turrell exhibit. They were both somewhat interested in art, but had no formal training in Art or Art History. Because they had no formal education in art, I noticed that many of their comments were about art in relation to different things in their lives (many “this reminds me of…” comments). In addition, they learned a lot through museum staff and other museum-goers about the exhibits, but didn’t spend much time reading placards or pamphlets. 
+
+Our third participant was a Williams student who occasionally visits museums and has an interest in art, but has no formal background knowledge. He expressed a particular frustration with contemporary, conceptual art that doesn’t allow him to engage in the subject matter as much as less abstract, traditional pieces. This has led him to pay less attention to contemporary art. However, he wouldn’t necessarily want a very formal understanding of art and likes to leave some of his understanding to individual interpretation. Additionally, in order to probe what the current process for learning about art looks like, we conducted a contextual inquiry, asking him to describe his process looking at a few modern pieces. After looking at a Jackson Pollack and not gleaning much from the work, he continued to search for more information on his own. His search evinced the difficulty both in finding a trustworthy, centralized resource for art and in comprehending the language of formal art terms.
+
+Our fourth contextual inquiry was with an elderly couple. They were looking at a modern art installation about violence. One mentioned that he was an engineer and he could not understand modern art. The other indicated that the museum pamphlets helped them make sense of the art. Although they did not have a full understanding of the exhibit, it was clear that it had an effect on the couple. They were not very comfortable with modern art, and they felt their experience needed to be directed. The couple visits museums every couple months, and they have never had trouble interpreting traditional art.
+
+Our fifth contextual inquiry was with Alice and Bob (names changed), a young couple at MASS MoCA. They were observing a large modern art installation. They did not have any formal background in art. Their interest in art was casual, and they visit museums about 6 times a year. We noticed that the couple felt very strongly about art. They expressed that art helped them make sense of their lives. They connect art to their everyday life. Their museum experience was very personal.
+
+
