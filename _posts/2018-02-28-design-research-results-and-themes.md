@@ -5,7 +5,7 @@ excerpt: ""
 
 ## Key Findings and Results
 
-We’ve uncovered a lot of information about people’s experience with art through our design research. We learned that people often view art in relation to their lives, and that for some people with no formal art background, drawing similarities to different aspects of their lives is how they interact with it. In that vain, we also learned that direction is sometimes needed to guide social conversations about art, to prevent them from devolving into mere speculation. We also learned that navigating a museum’s exhibits correctly is an important part of the museum experience, and that different genres of art should be treated differently (some art is consumed together, as an exhibit, others individually). We learned that information can enhance the museum experience, but too much information can also distract the viewer.
+Through our research, we uncovered a lot of information about people’s experience with art. We learned that people often view art in relation to their lives. Most people, with no formal art background, interact with art by drawing similarities to different aspects of their lives. In that vain, we also learned that direction is sometimes needed to guide social conversations about art, to prevent them from devolving into mere speculation. We also learned that correctly navigating a museum’s exhibits is an important aspect of the museum experience, and that different genres of art should be treated differently (some art is consumed together, as an exhibit, others individually). We learned that information can enhance the museum experience, but too much information can also distract the viewer.
 
 ## Design Research Themes
 From our contextual inquiries, we:
