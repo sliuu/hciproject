@@ -72,6 +72,17 @@ The artist tab includes what the artist would like his/her audience to know abou
 
 **(Task 5 & 8) _Discussion with experts and artist:_** On top of the discussion page is a list of most recent answers from an artist. Below that is a list of experts. A user can read past discussion and post questions. He is able to interact with both the artist and experts (if he chooses to).
 
+## Updated Design
+
+We decided to combine parts of each of the first two designs in our final design. The second museum-centered design will serve as the basis for our app's structure. The motivation for this choice came from our contextual inquiries, because we realized that most people don’t actually look at or find art on their own; they come to museums for that purpose. We chose to keep the map from the second design because our contextual inquiries revealed that navigating effectively through museums and from one exhibit to the next can be a challenge for people. We also kept the QR codes featured in that design, because we noticed when visiting MASS MoCA that many modern exhibits these days aren’t just framed artworks, so they would be harder to detect by just snapping a picture. In addition, some exhibits don’t allow camera use inside, so the QR code could be placed just outside the exhibit with the wall text. From the first design, we wanted to keep the tabs that toggle between “About”, “Learn More” and “Discussion,” because we didn’t feel like there was a streamlined sequence of events for people when viewing an artwork (i.e. they didn’t first read the background, then ask questions, and then discuss the art; they often went back and forth). 
+
+<figure>
+<img src="../assets/images/updated-design-1.jpg" alt="Updated Interface" style="max-width: 100%;"/>
+<img src="../assets/images/updated-design-2.jpg" alt="Updated Interface" style="max-width: 100%;"/>
+<figcaption>Updated Design</figcaption>
+</figure> 
+
+
 ## Citations
 1. [Dorothea Lange's "Migrant Mother" Photographs in the Farm Security Administration Collection: An Overview](http://www.loc.gov/rr/print/list/128_migm.html)
 
