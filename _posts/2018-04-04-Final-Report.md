@@ -14,7 +14,7 @@ Art museums have long been a primary resource for learning about and experiencin
 
 ## Design Research: Goals, Stakeholders, and Participants
 
-This [post](../design-research-goals-stakeholders-and-participants) provides information about the methods and process we used for gathering design research through interviews and contextual inquiries, as well as detailed accounts of the interviews and the key insights we used to guide our design. 
+This [post](../design-research-goals-stakeholders-and-participants) provides information about the methods and process we used for gathering design research through interviews and contextual inquiries, as well as detailed accounts of the participants, their backgrounds, and the environments in which they were interviewed.
 
 ## Design Research: Results and Themes
 
