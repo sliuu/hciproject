@@ -27,7 +27,7 @@ The application has three primary modes: the museum profile, search, and user pr
 Clicking on the artwork opens a nested art profile page with “About” (Screen 2.1), “Learn More,” and “Discussion” tabs the user can toggle between to support the first task of discovering more context about artworks. The “Learn More” tab (Screen 2.3) contains drop-down menus of further background information, including “Context,” “Inspiration,” “History,” and “Genre” that can be collapsed and expanded, as shown in Screen 2.5.
 
 <figure>
-<img src="../assets/images/paper_prototyping_art_profile_1.jpg" alt="Art Prof 1" style="max-width: 100%;"/>
+<img src="../assets/images/paper_prototyping_ art_profile_1.jpg" alt="Art Prof 1" style="max-width: 100%;"/>
 <figcaption>Artwork Profile</figcaption>
 </figure>
 
