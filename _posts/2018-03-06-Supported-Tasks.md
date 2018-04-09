@@ -33,3 +33,5 @@ Syd has had no formal experience studying art and so is not familiar with the fo
 
 Jordan Mitchell is a rising modern artist with a number of nationwide exhibitions. Her artwork is revolutionary and can be hard to understand for both art novices and experts. She often attends museum events, explains her work, and interacts with people interested in her work. However, she is unable to attend as many events as she would like to. She communicates with both novice and experienced museum goers. She is able to explain her work, and respond to any of their questions. This helps breakdown the barriers preventing people to understand her revolutionary artwork. It is also a way for Jordan to get real time feedback on how people see her artworks.
 
+## Citations
+1. [Dorothea Lange's "Migrant Mother" Photographs in the Farm Security Administration Collection: An Overview](http://www.loc.gov/rr/print/list/128_migm.html)

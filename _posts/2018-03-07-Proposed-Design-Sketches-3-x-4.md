@@ -4,7 +4,7 @@ layout: single
 excerpt: ""
 ---
 
-Note: See the [supported tasks](../Supported-Tasks) page for information about tasks.
+Note: See the [supported tasks](../Supported-Tasks) page for information about the tasks referenced here.
 
 ## First Design
 
@@ -17,7 +17,7 @@ Note: See the [supported tasks](../Supported-Tasks) page for information about t
 
 **Main Idea:** This design focuses on how we might layout a particular “art profile” and the discovery of new information about the artwork, as well as user and artist profiles. The artwork is presented as a central page, where “about”, “learn more”, and “discussion” are the main focuses and the user can tab between them. 
 
-**(Tasks 1 & 4) Learning:** The “about” tab includes placard-like explanation. The “learn more” tab on the artwork’s profile allows the user to make an individual choice about which aspect of the background information she’d like to explore. For further exploration, there will be a series of different aspects of the artwork’s background info. Elliot, who likes history, can specifically choose the history tab. In addition, there is a small “progress bar” at the bottom that allows the user to navigate to more information if their curiosity is not yet satisfied. Logan, who wants to learn about the inspiration, can navigate to the “inspiration” section. 
+**(Tasks 1 & 4) Learning:** The “about” tab includes a placard-like explanation. The “learn more” tab on the artwork’s profile allows the user to make an individual choice about which aspect of the background information she’d like to explore through a series of tabbed pages. Elliot, who likes history, can specifically choose the history tab. In addition, there is a small “progress bar” at the bottom that allows the user to navigate to more information if their curiosity is not yet satisfied. Logan, who wants to learn about the inspiration, can navigate to the “inspiration” section. 
 
 **(Tasks 2, 5, 8) _Discussion:_** The “discussion” tab on the artwork’s profile allows the users to talk with each other and with scholars and artists in the field to learn about the artwork in a more informal/colloquial setting. Both Anna and Caroline can use this functionality to hear about others’ experiences. The scholars/artists who participate in the discussion will have special annotations on their icons to indicate that they are professionals in their field, and the particular artist of the work will have a distinct icon so they can reliably answer questions that come up.
 
@@ -66,9 +66,9 @@ The artist tab includes what the artist would like his/her audience to know abou
 
 **(Task 4) _Understanding Context:_** The main page shows an artist’s profile. It goes into more depth than the traditional wall text or placard. At the top of the page is the artists name, below that we have the image of the artist. The image is followed by a link to the artist’s works. A brief but thorough description of the artist forms the main content of the page. A museum goer like Logan can get more context about an artwork by getting insights from the artists biography. 
 
-**(Task 1) _Background Information:_** After clicking the “works” link indicated above, a user is presented with a picture gallery of all the works by an artist. A user like Elliot who wants to understand the background of an artwork can see an artist’s work in relation to other works by the same artist. Clicking on an artwork will further lead to a page about the artwork and offers more detail and context.
+**(Task 1) _Background Information:_** After clicking the “works” link indicated above, a user is presented with a picture gallery of all the works by an artist. A user like Elliot who wants to understand the background of an artwork can see an artist’s work in relation to other works by the same artist. Clicking on an artwork will further lead to a page about the artwork that offers more detail and context.
 
-**(Task 2) _Discussion with fellow museum-goers:_** Below an artwork’s description is a chat bubble with a link that leads to a digital space that fosters discussion among the artist, museum-goers, and scholars in the field. The user is able to ask question about an artwork and respond to other users. 
+**(Task 2) _Discussion with fellow museum-goers:_** Below an artwork’s description is a chat bubble with a link that leads to a digital space that fosters discussion among the artist, museum-goers, and scholars in the field. The user is able to ask questions about an artwork and respond to other users. 
 
 **(Task 5 & 8) _Discussion with experts and artist:_** On top of the discussion page is a list of most recent answers from an artist. Below that is a list of experts. A user can read past discussion and post questions. He is able to interact with both the artist and experts (if he chooses to).
 
@@ -83,8 +83,8 @@ We decided to combine parts of each of the first two designs in our final design
 </figure> 
 
 
-## Citations
-1. [Dorothea Lange's "Migrant Mother" Photographs in the Farm Security Administration Collection: An Overview](http://www.loc.gov/rr/print/list/128_migm.html)
+<!--## Citations
+1. [Dorothea Lange's "Migrant Mother" Photographs in the Farm Security Administration Collection: An Overview](http://www.loc.gov/rr/print/list/128_migm.html)-->
 
 
 
