@@ -20,7 +20,7 @@ var store = [{
         "url": "http://localhost:4000/hciproject/design-research-goals-stakeholders-and-participants/",
         "teaser":null},{
         "title": "Design Research Results and Themes",
-        "excerpt":"Key Findings and ResultsThrough our research, we uncovered a lot of information about people’s experience with art. We learned that people often view art in relation to their lives. Most people with no formal art background interact with art by drawing similarities to different aspects of their lives. In that...","categories": [],
+        "excerpt":"Key Findings and ResultsThrough our research, we uncovered a lot of information about people’s experience with art. We learned that people often view art in relation to their lives. Many people with no formal art background interact with art by drawing similarities to different aspects of their lives. We also...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/hciproject/design-research-results-and-themes/",
         "teaser":null},{
@@ -40,7 +40,7 @@ var store = [{
         "url": "http://localhost:4000/hciproject/Supported-Tasks/",
         "teaser":null},{
         "title": "Proposed Design Sketches (“3x4”)",
-        "excerpt":"Note: See the supported tasks page for information about tasks.First DesignSketch of first designTasks: Background information, contexts, discussion, favoriting, and rememberingMain Idea: This design focuses on how we might layout a particular “art profile” and the discovery of new information about the artwork, as well as user and artist profiles....","categories": [],
+        "excerpt":"Note: See the supported tasks page for information about the tasks referenced here.First DesignSketch of first designTasks: Background information, contexts, discussion, favoriting, and rememberingMain Idea: This design focuses on how we might layout a particular “art profile” and the discovery of new information about the artwork, as well as user...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/hciproject/Proposed-Design-Sketches-3-x-4/",
         "teaser":null},{
@@ -63,4 +63,9 @@ var store = [{
         "excerpt":"DesignArt for All is a mobile application that allows users to learn more about the art pieces users see in museumsTasks Learn more context and background information to better understand the meaning behind artworks Discuss artwork with others in order further engage with the piecesOverview of paper prototypingComponents of paper...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/hciproject/paper-prototype/",
+        "teaser":null},{
+        "title": "Heuristic Evaluations",
+        "excerpt":"Stephanie and Joyce facilitated an heuristic evaluation performed by Karl on our paper prototype (and vice versa for Pin’s prototype). His full evaluation is below.Karl's written evaluationCliff facilitated an evaluation performed by Alyssa and Lester (and vice versa for Pin’s prototype). Their full evaluations are below.Alyssa's written evaluationLester's written evaluationAn...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/hciproject/heuristic-evaluations/",
         "teaser":null}]
