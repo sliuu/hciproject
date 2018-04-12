@@ -34,7 +34,7 @@ We received feedback that a primary function of our application, which allows th
 
 <figure>
 <img src="../assets/images/paper-prototype-inspo.jpg" alt="cam" style="max-width: 100%;"/>
-<figcaption>Two separated components with clear labeling</figcaption>
+<figcaption>Inspiration section of “Learn more” </figcaption>
 </figure>
 
 Our evaluators pointed out that after navigating to inspiration, it was unclear how to get back to the main about section. They felt stuck.
@@ -79,6 +79,11 @@ Some of our screen components, like the bottom toolbar, felt redundant to our ev
 </figure>
 
 ### 4. Lack of Feedback
+
+<figure>
+<img src="../assets/images/paper-prototype-faves.jpg" alt="Learn More" style="max-width: 100%;"/>
+<figcaption>Favorites section</figcaption>
+</figure>
 
 One of the evaluators liked the feature that allowed users to favorite paintings. However, it was not clear to them how and where the favored artworks were stored within the application. 
 

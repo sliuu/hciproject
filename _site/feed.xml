@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/hciproject/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hciproject/" rel="alternate" type="text/html" /><updated>2018-04-12T12:14:46-04:00</updated><id>http://localhost:4000/hciproject/</id><title type="html">CSCI376 Project: Art for All</title><subtitle>Collaborative platform for artistic engagement</subtitle><author><name>Art for All</name></author><entry><title type="html">Usability Testing Check-In</title><link href="http://localhost:4000/hciproject/usability-testing-check-in/" rel="alternate" type="text/html" title="Usability Testing Check-In" /><published>2018-04-12T00:00:00-04:00</published><updated>2018-04-12T00:00:00-04:00</updated><id>http://localhost:4000/hciproject/usability-testing-check-in</id><content type="html" xml:base="http://localhost:4000/hciproject/usability-testing-check-in/">&lt;h1 id=&quot;heuristic-evaluation&quot;&gt;Heuristic Evaluation&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/hciproject/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hciproject/" rel="alternate" type="text/html" /><updated>2018-04-12T12:20:05-04:00</updated><id>http://localhost:4000/hciproject/</id><title type="html">CSCI376 Project: Art for All</title><subtitle>Collaborative platform for artistic engagement</subtitle><author><name>Art for All</name></author><entry><title type="html">Usability Testing Check-In</title><link href="http://localhost:4000/hciproject/usability-testing-check-in/" rel="alternate" type="text/html" title="Usability Testing Check-In" /><published>2018-04-12T00:00:00-04:00</published><updated>2018-04-12T00:00:00-04:00</updated><id>http://localhost:4000/hciproject/usability-testing-check-in</id><content type="html" xml:base="http://localhost:4000/hciproject/usability-testing-check-in/">&lt;h1 id=&quot;heuristic-evaluation&quot;&gt;Heuristic Evaluation&lt;/h1&gt;
 
 &lt;p&gt;Our group received two heuristic evaluations from two different groups. The evaluation was carried out according to Nielsen’s heuristics sheet. The evaluators identified potential issues with our design, noted the heuristic violated, and assigned a severity score. For detailed images of the evaluator’s comments, refer to the &lt;a href=&quot;../heuristic-evaluations&quot;&gt;Heuristic Evaluations page&lt;/a&gt;&lt;/p&gt;
 
@@ -6,27 +6,71 @@
 
 &lt;h3 id=&quot;1-functionality-of-camera-icon-is-unclear&quot;&gt;1. Functionality of Camera Icon is Unclear&lt;/h3&gt;
 
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/paper-prototype-search.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Search menu&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;We received feedback that a primary function of our application, which allows the user to scan a QR code using the mobile phone’s camera, was not clear. The camera icon was too close to the search bar, and the camera did not provide any indication that it would be used to scan QR codes.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Heuristic Violated:&lt;/strong&gt; This issue violates the visibility of system heuristic. Providing more clarity on the different functions of the search bar and the camera icon, through labeling and separation of the two components, will provide better context for the user.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Severity Rating:&lt;/strong&gt; 3&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Revision:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-cam-1.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Two separated components with clear labeling&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;h3 id=&quot;2-missing-back-buttons&quot;&gt;2. Missing Back Button(s)&lt;/h3&gt;
 
-&lt;p&gt;Our evaluators pointed out the lack of exits in our application. They felt stuck after exploring some functionality.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/paper-prototype-inspo.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Two separated components with clear labeling&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;&lt;strong&gt;Heuristic Violated:&lt;/strong&gt;  User Control and freedom. Our design did not have clearly market “emergency exits”.  We added in back buttons where we didn’t have them before.&lt;/p&gt;
+&lt;p&gt;Our evaluators pointed out that after navigating to inspiration, it was unclear how to get back to the main about section. They felt stuck.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Heuristic Violated:&lt;/strong&gt;  User Control and freedom. Our design did not have a clearly market “emergency exit” there.  We added in a back button.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Severity Rating:&lt;/strong&gt; 1&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Revisions:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-about-inspo.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Back button added&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;h3 id=&quot;3--redundancy&quot;&gt;3.  Redundancy&lt;/h3&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/paper-prototype-cam.jpg&quot; alt=&quot;About&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Camera screen&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/paper-prototype-discuss.jpg&quot; alt=&quot;Learn More&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Discussion screen&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Some of our screen components, like the bottom toolbar, felt redundant to our evaluators in certain contexts. This added clutter and made the design difficult to navigate.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Heuristic Violated:&lt;/strong&gt; Aesthetics and minimalist design. The design should only provide information that is needed and is helpful to the user. We decided to drop the bottom bar wherever it was easy for the user to still go back one page and find the bottom bar easily should they need it.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Severity Rating:&lt;/strong&gt; 2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Revisions:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-cam-2.jpg&quot; alt=&quot;About&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Camera screen removes toolbar&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-discuss.jpg&quot; alt=&quot;Learn More&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Discussion screen removes toolbar&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h3 id=&quot;4-lack-of-feedback&quot;&gt;4. Lack of Feedback&lt;/h3&gt;
 
