@@ -6,33 +6,77 @@ excerpt: ""
 
 # Heuristic Evaluation
 
-Our group received two heuristic evaluations from two different groups. The evaluation was carried out according to Nielsen’s heuristics sheet. The evaluators identified potential issues with our design, noted the heuristic violated, and assigned a severity score. 
+Our group received two heuristic evaluations from two different groups. The evaluation was carried out according to Nielsen’s heuristics sheet. The evaluators identified potential issues with our design, noted the heuristic violated, and assigned a severity score. For detailed images of the evaluator’s comments, refer to the [Heuristic Evaluations page](../heuristic-evaluations)
 
 ## List of issues and modifications:
 
 ### 1. Functionality of Camera Icon is Unclear
 
-We received feedback that a primary function of our application, which allows the user to scan a QR code using the mobile phone’s camera, was not clear. The camera icon was close to the search bar. 
+<figure>
+<img src="../assets/images/paper-prototype-search.jpg" alt="cam" style="max-width: 100%;"/>
+<figcaption>Search menu</figcaption>
+</figure>
 
-**Heuristic Violated:** This issue violates the visibility of system heuristic. Providing more clarity on the different functions of the search bar and the camera icon, through labeling and/or separation of the two components, might provide better context for the user.
+We received feedback that a primary function of our application, which allows the user to scan a QR code using the mobile phone’s camera, was not clear. The camera icon was too close to the search bar, and the camera did not provide any indication that it would be used to scan QR codes.
+
+**Heuristic Violated:** This issue violates the visibility of system heuristic. Providing more clarity on the different functions of the search bar and the camera icon, through labeling and separation of the two components, will provide better context for the user.
 
 **Severity Rating:** 3
 
+**Revision:**
+
+<figure>
+<img src="../assets/images/pp-cam-1.jpg" alt="cam" style="max-width: 100%;"/>
+<figcaption>Two separated components with clear labeling</figcaption>
+</figure>
+
 ### 2. Missing Back Button(s)
 
-Our evaluators pointed out the lack of exits in our application. They felt stuck after exploring some functionality
+<figure>
+<img src="../assets/images/paper-prototype-inspo.jpg" alt="cam" style="max-width: 100%;"/>
+<figcaption>Two separated components with clear labeling</figcaption>
+</figure>
 
-**Heuristic Violated:**  User Control and freedom. Our design did not have clearly market “emergency exits”.  We added in back buttons where we didn’t have them before. 
+Our evaluators pointed out that after navigating to inspiration, it was unclear how to get back to the main about section. They felt stuck.
+
+**Heuristic Violated:**  User Control and freedom. Our design did not have a clearly market “emergency exit” there.  We added in a back button.
 
 **Severity Rating:** 1
 
+**Revisions:**
+
+<figure>
+<img src="../assets/images/pp-about-inspo.jpg" alt="cam" style="max-width: 100%;"/>
+<figcaption>Back button added</figcaption>
+</figure>
+
 ### 3.  Redundancy 
 
-Some of our screen components, like the bottom toolbar, felt redundant to our evaluators. This added clutter and made the design difficult to navigate.
+<figure>
+<img src="../assets/images/paper-prototype-cam.jpg" alt="About" style="max-width: 100%;"/>
+<figcaption>Camera screen</figcaption>
+</figure>
+<figure>
+<img src="../assets/images/paper-prototype-discuss.jpg" alt="Learn More" style="max-width: 100%;"/>
+<figcaption>Discussion screen</figcaption>
+</figure>
+
+Some of our screen components, like the bottom toolbar, felt redundant to our evaluators in certain contexts. This added clutter and made the design difficult to navigate.
 
 **Heuristic Violated:** Aesthetics and minimalist design. The design should only provide information that is needed and is helpful to the user. We decided to drop the bottom bar wherever it was easy for the user to still go back one page and find the bottom bar easily should they need it. 
 
 **Severity Rating:** 2
+
+**Revisions:**
+
+<figure>
+<img src="../assets/images/pp-cam-2.jpg" alt="About" style="max-width: 100%;"/>
+<figcaption>Camera screen removes toolbar</figcaption>
+</figure>
+<figure>
+<img src="../assets/images/pp-discuss.jpg" alt="Learn More" style="max-width: 100%;"/>
+<figcaption>Discussion screen removes toolbar</figcaption>
+</figure>
 
 ### 4. Lack of Feedback
 
@@ -44,7 +88,7 @@ One of the evaluators liked the feature that allowed users to favorite paintings
 
 # Usability Test Results
 
-We conducted the first usability test with Hussain Bukhari, a senior at Williams, in a study room in Sawyer Library. We chose to start with Hussain because he is not an art history major but has taken four art history classes at Williams and has a deep appreciation for art, so he sits in the middle in terms of art education. We followed the test protocol outlined in Kathleen Gomoll’s “Some Techniques for Observing Users,” starting with a brief explanation of the app and the format and rules for the usability test. We explained each of our two main tasks in a scenario format for the user, and asked him to carry out those tasks while explaining his thought process and ask questions (even if we couldn’t answer them). Stephanie facilitated the usability test, and Joyce took notes. A major challenge we encountered while facilitating the usability test was “the user with an agenda,” as Carolyn Snyder describes it in “Paper Prototyping.” I believe there are several reasons for why our participant believed he was being asked his opinion on the app’s interface and to describe what he liked and disliked. For one, I think we can be more clear going forward with regards to establishing what the purpose of the usability test is. We may have underestimated the possibility of this happening. I also believe the fact that the user was easily able to understand the app’s functionality meant he ended up sort of looking for other things to talk about or comment on. We also did not write out the tasks this time, and I think going forward it will be helpful to print out the tasks so that the user can see very quickly what his direction is. 
+We conducted the first usability test with Hussain Bukhari, a senior at Williams, in a study room in Sawyer Library. We chose to start with Hussain because he is not an art history major but has taken four art history classes at Williams and has a deep appreciation for art, so he sits in the middle in terms of art education. We followed the test protocol outlined in Kathleen Gomoll’s “Some Techniques for Observing Users,” starting with a brief explanation of the app and the format and rules for the usability test. We explained each of our two main tasks in a scenario format for the user, and asked him to carry out those tasks while explaining his thought process and ask questions (even if we couldn’t answer them). Stephanie facilitated the usability test, and Joyce took notes. A major challenge we encountered while facilitating the usability test was “the user with an agenda,” as Carolyn Snyder describes it in “Paper Prototyping.” I believe there are several reasons for why our participant believed he was being asked his opinion on the app’s interface and to describe what he liked and disliked. For one, I think we can be more clear going forward with regards to establishing what the purpose of the usability test is. We may have underestimated the possibility of this happening. I also believe the fact that the user was easily able to understand the app’s functionality meant he ended up sort of looking for other things to talk about or comment on. We also did not write out the tasks this time, and I think going forward it will be helpful to print out the tasks so that the user can see very explicitly what his direction is. 
 
 ## Critical Incidents
 
@@ -86,6 +130,7 @@ We conducted the first usability test with Hussain Bukhari, a senior at Williams
 </figure>
 
 **Incident:** This was a positive incident; our user was quickly and easily able to locate the “discussion” section and understand the gist of the interface and how it would operate. This is likely because discussions like this exist in similar formats on other platforms. 
+
 ## Updated Design
 
 <figure>

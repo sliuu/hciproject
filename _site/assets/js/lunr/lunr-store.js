@@ -70,7 +70,7 @@ var store = [{
         "url": "http://localhost:4000/hciproject/heuristic-evaluations/",
         "teaser":null},{
         "title": "Usability Testing Check-In",
-        "excerpt":"HEURISTIC EVALUATIONOur group received two heuristic evaluations from two different groups. The evaluation was carried out according to Nielsen’s heuristics sheet. The evaluators identified potential issues with our design, noted the heuristic violated, and assigned a severity score.List of issues and modifications:1. Functionality of Camera Icon is UnclearWe received feedback...","categories": [],
+        "excerpt":"Heuristic EvaluationOur group received two heuristic evaluations from two different groups. The evaluation was carried out according to Nielsen’s heuristics sheet. The evaluators identified potential issues with our design, noted the heuristic violated, and assigned a severity score. For detailed images of the evaluator’s comments, refer to the Heuristic Evaluations...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/hciproject/usability-testing-check-in/",
         "teaser":null}]
