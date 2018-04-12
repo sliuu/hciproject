@@ -68,4 +68,9 @@ var store = [{
         "excerpt":"Stephanie and Joyce facilitated an heuristic evaluation performed by Karl on our paper prototype (and vice versa for Pin’s prototype). His full evaluation is below.Karl's written evaluationCliff facilitated an evaluation performed by Alyssa and Lester (and vice versa for Pin’s prototype). Their full evaluations are below.Alyssa's written evaluationLester's written evaluationAn...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/hciproject/heuristic-evaluations/",
+        "teaser":null},{
+        "title": "Usability Testing Check-In",
+        "excerpt":"HEURISTIC EVALUATIONOur group received two heuristic evaluations from two different groups. The evaluation was carried out according to Nielsen’s heuristics sheet. The evaluators identified potential issues with our design, noted the heuristic violated, and assigned a severity score.List of issues and modifications:1. Functionality of Camera Icon is UnclearWe received feedback...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/hciproject/usability-testing-check-in/",
         "teaser":null}]

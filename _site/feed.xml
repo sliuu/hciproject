@@ -1,4 +1,138 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/hciproject/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hciproject/" rel="alternate" type="text/html" /><updated>2018-04-09T15:41:37-04:00</updated><id>http://localhost:4000/hciproject/</id><title type="html">CSCI376 Project: Art for All</title><subtitle>Collaborative platform for artistic engagement</subtitle><author><name>Art for All</name></author><entry><title type="html">Heuristic Evaluations</title><link href="http://localhost:4000/hciproject/heuristic-evaluations/" rel="alternate" type="text/html" title="Heuristic Evaluations" /><published>2018-04-09T00:00:00-04:00</published><updated>2018-04-09T00:00:00-04:00</updated><id>http://localhost:4000/hciproject/heuristic-evaluations</id><content type="html" xml:base="http://localhost:4000/hciproject/heuristic-evaluations/">&lt;p&gt;Stephanie and Joyce facilitated an heuristic evaluation performed by Karl on our paper prototype (and vice versa for Pin’s prototype). His full evaluation is below.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/hciproject/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hciproject/" rel="alternate" type="text/html" /><updated>2018-04-12T01:28:27-04:00</updated><id>http://localhost:4000/hciproject/</id><title type="html">CSCI376 Project: Art for All</title><subtitle>Collaborative platform for artistic engagement</subtitle><author><name>Art for All</name></author><entry><title type="html">Usability Testing Check-In</title><link href="http://localhost:4000/hciproject/usability-testing-check-in/" rel="alternate" type="text/html" title="Usability Testing Check-In" /><published>2018-04-12T00:00:00-04:00</published><updated>2018-04-12T00:00:00-04:00</updated><id>http://localhost:4000/hciproject/usability-testing-check-in</id><content type="html" xml:base="http://localhost:4000/hciproject/usability-testing-check-in/">&lt;h1 id=&quot;heuristic-evaluation&quot;&gt;HEURISTIC EVALUATION&lt;/h1&gt;
+
+&lt;p&gt;Our group received two heuristic evaluations from two different groups. The evaluation was carried out according to Nielsen’s heuristics sheet. The evaluators identified potential issues with our design, noted the heuristic violated, and assigned a severity score.&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-issues-and-modifications&quot;&gt;List of issues and modifications:&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-functionality-of-camera-icon-is-unclear&quot;&gt;1. Functionality of Camera Icon is Unclear&lt;/h3&gt;
+
+&lt;p&gt;We received feedback that a primary function of our application, which allows the user to scan a QR code using the mobile phone’s camera, was not clear. The camera icon was close to the search bar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Heuristic Violated:&lt;/strong&gt; This issue violates the visibility of system heuristic. Providing more clarity on the different functions of the search bar and the camera icon, through labeling and/or separation of the two components, might provide better context for the user.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Severity Rating:&lt;/strong&gt; 3&lt;/p&gt;
+
+&lt;h3 id=&quot;2-missing-back-buttons&quot;&gt;2. Missing Back Button(s)&lt;/h3&gt;
+
+&lt;p&gt;Our evaluators pointed out the lack of exits in our application. They felt stuck after exploring some functionality&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Heuristic Violated:&lt;/strong&gt;  User Control and freedom. Our design did not have clearly market “emergency exits”.  We need to give the user the freedom to make mistakes, undo and redo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Severity Rating:&lt;/strong&gt; 1&lt;/p&gt;
+
+&lt;h3 id=&quot;3--redundancy&quot;&gt;3.  Redundancy&lt;/h3&gt;
+
+&lt;p&gt;Some of our screen components, like the bottom toolbar, felt redundant to our evaluators. This added clutter and made the design difficult to navigate.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Heuristic Violated:&lt;/strong&gt; Aesthetics and minimalist design. The design should only provide information that is needed and is helpful to the user. We may want to consider dropping the bottom bar whenever it is easy for the user to go back and find the bottom bar easily should they need it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Severity Rating:&lt;/strong&gt; 2&lt;/p&gt;
+
+&lt;h3 id=&quot;4-lack-of-feedback&quot;&gt;4. Lack of Feedback&lt;/h3&gt;
+
+&lt;p&gt;One of the evaluators liked the feature that allowed users to favorite paintings. However, it was not clear to them how and where the favored artworks were stored within the application.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Heuristic Violated:&lt;/strong&gt; Match between system and real world. While our application stored the artworks favorited by the user, it did not provide enough feedback to the user. People expect an action to have a visible reaction. However, we have decided to not make the user profile section our focus right now.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Severity Rank:&lt;/strong&gt; 1&lt;/p&gt;
+
+&lt;h2 id=&quot;updated-design&quot;&gt;Updated Design&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-overview.jpg&quot; alt=&quot;Overview&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Overview of Revised Prototype&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;task-1-finding-background-information&quot;&gt;Task 1: Finding background information&lt;/h3&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-cam-1.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;User begins in search function&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-cam-2.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;User chooses QR code scan&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-qr.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;User scans QR code&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-about.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;App scans QR and navigates to artwork profile, beginning in About section&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-about-inspo.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;User clicks on inspiration&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-learn-more.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;User clicks on Learn More&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;task-2-discussing-art-with-others&quot;&gt;Task 2: Discussing art with others&lt;/h3&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-about.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;User begins on front page of artwork’s profile&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-discuss.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;User clicks on Discussion and writes a brief comment&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-discuss-2.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;User submits comment, and it shows up at the top of the comments section&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h1 id=&quot;usability-test-results&quot;&gt;Usability Test Results&lt;/h1&gt;
+
+&lt;p&gt;We conducted the first usability test with Hussain Bukhari, a senior at Williams, in a study room in Sawyer Library. We chose to start with Hussain because he is not an art history major but has taken four art history classes at Williams and has a deep appreciation for art, so he sits in the middle in terms of art education. We followed the test protocol outlined in Kathleen Gomoll’s “Some Techniques for Observing Users,” starting with a brief explanation of the app and the format and rules for the usability test. We explained each of our two main tasks in a scenario format for the user, and asked him to carry out those tasks while explaining his thought process and ask questions (even if we couldn’t answer them). Stephanie facilitated the usability test, and Joyce took notes. A major challenge we encountered while facilitating the usability test was “the user with an agenda,” as Carolyn Snyder describes it in “Paper Prototyping.” I believe there are several reasons for why our participant believed he was being asked his opinion on the app’s interface and to describe what he liked and disliked. For one, I think we can be more clear going forward with regards to establishing what the purpose of the usability test is. We may have underestimated the possibility of this happening. I also believe the fact that the user was easily able to understand the app’s functionality meant he ended up sort of looking for other things to talk about or comment on. We also did not write out the tasks this time, and I think going forward it will be helpful to print out the tasks so that the user can see very quickly what his direction is.&lt;/p&gt;
+
+&lt;h2 id=&quot;critical-incidents&quot;&gt;Critical Incidents&lt;/h2&gt;
+
+&lt;h3 id=&quot;about-vs-learn-more&quot;&gt;“About” vs “Learn More”&lt;/h3&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/paper-prototype-about.jpg&quot; alt=&quot;About&quot; style=&quot;width: 50px;&quot; /&gt;
+&lt;figcaption&gt;About screen under artwork profile&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/paper-prototype-learnmore.jpg&quot; alt=&quot;Learn More&quot; style=&quot;width: 50px;&quot; /&gt;
+&lt;figcaption&gt;Learn More screen under artwork profile&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Incident:&lt;/strong&gt; While trying to navigate to a page that contained the inspiration for an artwork, we realized that it wasn’t clear to a general user whether the inspiration information should be under “about” or “learn more.” This led us to believe we may want to put more information about the inspiration and context under the “about” tab, and leave very in-depth understanding to the “learn more” section (e.g. further information about the artist and the history of the movement).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Severity Level:&lt;/strong&gt; 3 (This is one of the main tasks our app is trying to support).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Revision:&lt;/strong&gt; Modifying the “Learn More” section to be a series of very in-depth information.&lt;/p&gt;
+
+&lt;h3 id=&quot;qr-code-scanner&quot;&gt;QR Code Scanner&lt;/h3&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/paper-prototype-qrscan.jpg&quot; alt=&quot;QR Scanner&quot; style=&quot;width: 50px;&quot; /&gt;
+&lt;figcaption&gt;QR Scanner&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Incident:&lt;/strong&gt; While trying to “fake” taking a scan of the QR code, our user noted that he didn’t really know where to put the QR code, and that it would be nice to have a box on the camera screen so the user knows exactly where to put it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Severity Level:&lt;/strong&gt; 1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Revision:&lt;/strong&gt; Simply adding a box/grid layout to make it easier for the user.&lt;/p&gt;
+
+&lt;h3 id=&quot;discussion&quot;&gt;Discussion&lt;/h3&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/paper-prototype-discussion-1.jpg&quot; alt=&quot;Discussion&quot; style=&quot;width: 50px;&quot; /&gt;
+&lt;figcaption&gt;Discussion&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Incident:&lt;/strong&gt; This was a positive incident; our user was quickly and easily able to locate the “discussion” section and understand the gist of the interface and how it would operate. This is likely because discussions like this exist in similar formats on other platforms.&lt;/p&gt;
+
+&lt;h2 id=&quot;going-forward&quot;&gt;Going Forward&lt;/h2&gt;
+
+&lt;p&gt;For our next usability tests, we may try to recruit an older person, although this will admittedly be much harder to do. Professors are generally busy, and we don’t know many older members of the community. If we cannot find an older user, we will still try to recruit people from different demographic backgrounds. We will try to recruit at least one user who is very well-versed in art history and art, and one who is not very interested in art and only consumes art through museums. We will try to rotate roles for the remaining tests so that everyone gets a chance at trying out each role. We have already mentioned some things we will try to change for upcoming usability tests, with the major one being establishing very up front that we are not exactly looking for the participant’s opinion on our interfaces during usability testing. We will also print out instructions for the tasks going forward.&lt;/p&gt;</content><author><name>Art for All</name></author></entry><entry><title type="html">Heuristic Evaluations</title><link href="http://localhost:4000/hciproject/heuristic-evaluations/" rel="alternate" type="text/html" title="Heuristic Evaluations" /><published>2018-04-09T00:00:00-04:00</published><updated>2018-04-09T00:00:00-04:00</updated><id>http://localhost:4000/hciproject/heuristic-evaluations</id><content type="html" xml:base="http://localhost:4000/hciproject/heuristic-evaluations/">&lt;p&gt;Stephanie and Joyce facilitated an heuristic evaluation performed by Karl on our paper prototype (and vice versa for Pin’s prototype). His full evaluation is below.&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;../assets/images/heuristic-karl-1.jpg&quot; alt=&quot;Karl&quot; style=&quot;max-width: 100%;&quot; /&gt;
@@ -295,29 +429,4 @@ The artist tab includes what the artist would like his/her audience to know abou
 &lt;p&gt;There aren’t any hard constraints on the tasks here, but since people spend limited time at a museum, they will likely not spend too much time on each individual “art profile.” How much time they do choose to spend will depend on the complexity of the art piece to the user and how interested the user is in that particular work. For the museum curators, there also won’t be any hard constraints, but we imagine they will want to be able to complete their tasks quickly and smoothly.&lt;/p&gt;
 
 &lt;h2 id=&quot;11-what-happens-when-things-go-wrong&quot;&gt;11. What happens when things go wrong?&lt;/h2&gt;
-&lt;p&gt;Fake news (spreading of false information masquerading as facts), conversations devolving into mere speculations rather than a genuine understanding of the art, and intolerant behavior or hate speech that is unproductive and uninformative (trolls).&lt;/p&gt;</content><author><name>Art for All</name></author></entry><entry><title type="html">Design Research Results and Themes</title><link href="http://localhost:4000/hciproject/design-research-results-and-themes/" rel="alternate" type="text/html" title="Design Research Results and Themes" /><published>2018-02-28T00:00:00-05:00</published><updated>2018-02-28T00:00:00-05:00</updated><id>http://localhost:4000/hciproject/design-research-results-and-themes</id><content type="html" xml:base="http://localhost:4000/hciproject/design-research-results-and-themes/">&lt;h2 id=&quot;key-findings-and-results&quot;&gt;Key Findings and Results&lt;/h2&gt;
-
-&lt;p&gt;Through our research, we uncovered a lot of information about people’s experience with art. We learned that people often view art in relation to their lives. Many people with no formal art background interact with art by drawing similarities to different aspects of their lives. We also learned that direction is sometimes needed to guide social conversations about art, to prevent them from devolving into mere speculation. We also learned that correctly navigating a museum’s exhibits is an important aspect of the museum experience, and that different genres of art should be treated differently (some art is consumed together, as an exhibit, others individually). In addition, information can enhance the museum experience, but too much information can also distract the viewer.&lt;/p&gt;
-
-&lt;h2 id=&quot;design-research-themes&quot;&gt;Design Research Themes&lt;/h2&gt;
-&lt;p&gt;From our contextual inquiries, we:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Confirmed that learning is the ultimate goal for art museum-goers&lt;/li&gt;
-  &lt;li&gt;Discovered these learning experiences are unique to the individual&lt;/li&gt;
-  &lt;li&gt;Resources that support learning about art must be customizable&lt;/li&gt;
-  &lt;li&gt;Discussion about art is critical to the individual experience of art&lt;/li&gt;
-  &lt;li&gt;Art discussion may need guidance from scholars to prevent mere speculation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Learning as the primary goal of museum-goers reinforces the necessity of a more accessible resource, which was our initial intuition. Context and background information on art presented in colloquial terms is integral to this learning process. Our inquiries revealed that current museum resources do not communicate enough context about art. The information gap is often due to the limited physical space in museums. Information is disseminated to users in the form of placards, wall text, and pamphlets, which are often not used by visitors. This confirms the motivation for our design solution. In addition, visiting museums is a social experience, and discussion is a crucial part in gaining new knowledge in an informal way.&lt;/p&gt;
-
-&lt;p&gt;On a high level, we also uncovered the nature of the learning experience when it comes to art. Because we are dealing with the subjective experience of enjoying art, the entire journey of art learning at museums must also accommodate a range of individual experiences. This personalization must be considered at all points of the learning experience, starting with the initial art background and interest level of the users to how and what they aim to learn. We learned that people enjoy relating art back to their own lives, so they must be able to practice individuality when engaging with any kind of art. In wanting to maintain their autonomy, they may explicitly choose not to learn too much background information about an art piece, and may simply want to engage with it themselves. Users must be able to make this choice for themselves.&lt;/p&gt;
-
-&lt;p&gt;Social discussion plays a large part in this; it allows users to participate in an informal discussion about art that allows them to gain new knowledge, and yet it still allows them to express their individually. An example of this is when we noticed museum-goers asking museum staff specific questions about art pieces. This was one avenue through which they were able to tailor the amount of background knowledge they wanted to their needs. However, scholarly input, on a colloquial and discussion-based level, may still be necessary and provide valuable insight about the true nature of artworks.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;../assets/images/affinity-diagram.jpg&quot; alt=&quot;Affinity Diagram&quot; style=&quot;max-width: 100%;&quot; /&gt;
-&lt;figcaption&gt;Affinity Diagram&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Through affinity diagramming, we were able to identify these high-level themes, as shown by the pink and purple post-its in the diagram above. By grouping similar statements from our interviewees together, we were able to pinpoint commonalities in the learning experience in art museums. For example, we noticed that the Art History professor stated that placards are informative but can be distracting, and actually both students noted that too much background information can actually take away from their appreciation of an artwork. To us, this meant that users would want to customize and tailor their learning to fit their needs. We used this kind of process to move from specific statements by specific users to general statements about groups of users throughout the construction of our affinity diagram.&lt;/p&gt;</content><author><name>Art for All</name></author></entry></feed>
+&lt;p&gt;Fake news (spreading of false information masquerading as facts), conversations devolving into mere speculations rather than a genuine understanding of the art, and intolerant behavior or hate speech that is unproductive and uninformative (trolls).&lt;/p&gt;</content><author><name>Art for All</name></author></entry></feed>
