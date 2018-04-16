@@ -173,14 +173,17 @@ From the launch page, users can start their search. Opening the Search mode for 
 
 Clicking on the artwork opens a nested art profile page with “About,” “Learn More,” and “Discussion” tabs the user can toggle between to support the first task of discovering more context about artworks. The “About” tab contains drop-down menus of further background information, including “Context,” “Inspiration,” “Genre,” and “Related Works” that can be collapsed and expanded. Shown below is a work flow that allows the user to explore information, and identify the inspiration section specifically.
 
+
 <figure>
-<img src="../assets/images/pp-about-inspo.jpg" alt="cam" style="max-width: 100%;"\
-/>
+<img src="../assets/images/favorite_new.jpg" alt="cam" style="max-width: 100%;"/>
+<figcaption>First screen on artwork profile: about page</figcaption>
+</figure>
+<figure>
+<img src="../assets/images/pp-about-inspo.jpg" alt="cam" style="max-width: 100%;"/>
 <figcaption>User clicks on inspiration</figcaption>
 </figure>
 <figure>
-<img src="../assets/images/pp-learn-more.jpg" alt="cam" style="max-width: 100%;"/\
->
+<img src="../assets/images/pp-learn-more.jpg" alt="cam" style="max-width: 100%;"/>
 <figcaption>User clicks on Learn More</figcaption>
 </figure>
 
