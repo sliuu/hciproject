@@ -72,3 +72,41 @@ To solve this problem of not allowing users to easily look up artworks, upon lau
 <img src="../assets/images/overview-pic-updated.jpg" alt="Revised Overview" style="max-width: 100%;"/>
 <figcaption>Revised paper prototype overview</figcaption>
 </figure>
+
+The application has three primary modes: the museum profile, search, and user profile. The yellow highlighted box indicates which mode the user is in. Initially opening the application brings the user to the Museum profile mode page, as shown below.
+<figure>
+<img src="../assets/images/ppf_homepage.jpg" alt="homepage" style="max-width: 50%;"/>
+<figcaption>Launch screen</figcaption>
+</figure>
+
+
+## Task 1: Learn more context and background information to better understand the meaning behind artworks
+
+From this page, users can start their search. Opening the Search mode for the first time prompts a tutorial, as shown in Screen 1.1.0, detailing how to look up an image using a QR code. In Screen 1.1.1, users can then choose between a text (Screens 1.2-1.3) or QR search (Screens 1.4-1.6). Both lead to a results page, in Screen 1.7, where the desired artwork can be chosen.
+
+<figure>
+<img src="../assets/images/ppf_search.pdf" alt="Revised Search" style="max-width: 100%;"/>
+<figcaption>Revised search</figcaption>
+</figure>
+
+Clicking on the artwork opens a nested art profile page with “About,” “Learn More,” and “Discussion” tabs the user can toggle between to support the first task of discovering more context about artworks. The “About” tab contains drop-down menus of further background information, including “Context,” “Inspiration,” “Genre,” and “Related Works” that can be collapsed and expanded, as shown in Screen 2.2-2.3.
+
+<figure>
+<img src="../assets/images/ppf_art_profile_1.pdf" alt="Revised Art Profile" style="max-width: 100%;"/>
+<figcaption>Art profile</figcaption>
+</figure>
+
+## Task 2: Discuss artwork with others in order to further engage with the pieces
+<figure>
+<img src="../assets/images/ppf_art_profile_2.pdf" alt="Revised Art Profile 2" style="max-width: 100%;"/>
+<figcaption>Art profile (cont.)</figcaption>
+</figure>
+
+The “Discussion” tab (Screen 2.6) supports the task of discussing art with others. In this tab, users can post and reply to other users’ comments about this artwork, as shown in Screens 2.7-10.
+
+<figure>
+<img src="../assets/images/ppf_user_profile.pdf" alt="Revised User Profile" style="max-width: 100%;"/>
+<figcaption>User profile</figcaption>
+</figure>
+
+Clicking on the User Profile mode displays the initial Screen 3.1. The user profile displays a header containing a user profile picture, name, and bio. The body of the page consist of “Favorites” and “Threads” tabs that are toggled between. The “Favorites” tab displays favorited artworks. Clicking on any of these artworks, in Screen 3.2, brings the user to a nested art profile page, in Screen 3.3. The “Threads” tab (Screen 3.5) displays a list of discussions the user has participated in and highlights those with unread replies. Clicking on any of these comments, in Screen 3.6, opens a nested discussion page, as shown in Screen 3.7.
