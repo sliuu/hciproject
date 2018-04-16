@@ -58,6 +58,6 @@ Severity: 2
 To solve this problem of not allowing users to easily look up artworks, upon launching the “Search” mode for the first time, a tutorial overlay page outlines the QR code look-up process for the user.
 
 <figure>
-<img src="../assets/images/search_new.jpg" alt="New Tutorial" style="max-width: 100%;"/>
+<img src="../assets/images/tutorial_new.jpg" alt="New Tutorial" style="max-width: 100%;"/>
 <figcaption>New initial search screen</figcaption>
 </figure>
