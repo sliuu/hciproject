@@ -13,10 +13,15 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 ## Favoriting
 Favoriting and adding artworks to the user’s profile was not readily apparent. Although Liam was able to discover this feature after exploring the application and browsing his user profile, the discovery was only in hindsight after he had already left the artwork profile screen. This incident was negative. Because favoriting artworks is one of our six primary tasks and the main feature of the user profile, this feature needed to be made more obvious.
 Severity: 4
-
+<figure>
+<img src="../assets/images/favorite_old.jpg" alt="Old Favorite" style="max-width: 50%;"/>
+<figcaption>Old favorite button</figcaption>
+</figure>
 Our solution was to change the favorite button into a more visible “like” button right underneath the work’s title. The action of “favoriting” can be made even more obvious with an animation of a picture disappearing into the profile tab.
-
-[Insert images : favorite-updated1 and favorite-updated2] & [image before updating favorite button]
+<figure>
+<img src="../assets/images/favorite_new.jpg" alt="New Favorite" style="max-width: 50%;"/>
+<figcaption>New favorite button</figcaption>
+</figure>
 
 ## Museum Profile
 Upon opening the application and being shown the initial screen for the “Search mode,” Elizabeth, like Liam, first went to the “Museum Profile” for the purposes of initially exploring the application. This incident was negative, as the order of interaction was not intuitive to our test users. Starting with this mode may be more ideal; it places the app within the user’s settings by communicating that the app is museum-specific and clearly defining what artwork is covered. Although not directly part of a primary task, the museum profile orients the user toward accomplishing the task of searching art pieces.
