@@ -73,4 +73,9 @@ var store = [{
         "excerpt":"Heuristic EvaluationOur group received two heuristic evaluations from two different groups. The evaluation was carried out according to Nielsen’s heuristics sheet. The evaluators identified potential issues with our design, noted the heuristic violated, and assigned a severity score. For detailed images of the evaluator’s comments, refer to the Heuristic Evaluations...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/hciproject/usability-testing-check-in/",
+        "teaser":null},{
+        "title": "Usability Testing Review",
+        "excerpt":"Usability Test #2Our second usability test participant was Liam Bardong, who was also an interview subject during the contextual inquiry research. We chose Liam because he is familiar with the purpose of the app and its use case. We started the test by laying out a brief scenario of being...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/hciproject/usability-testing-review/",
         "teaser":null}]
