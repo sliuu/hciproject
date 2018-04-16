@@ -14,7 +14,7 @@ We conducted the first usability test with Hussain Bukhari, a senior at Williams
 Our second usability test participant was Liam Bardong, who was also an interview subject during the contextual inquiry research. We chose Liam because he is familiar with the purpose of the app and its use case. We started the tests by laying out brief scenarios on paper of being in the museum and approaching a painting. We modified this and the following test compared to the first test by writing these scenarios down on paper and giving them to our participant to read out loud and refer to throughout the test. This test was conducted in Sawyer Library, a quiet space. Cliff conducted the test, and Joyce took notes.
 
 ## Usability Test #3
-Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth because she expressed interest in the app, as she does find herself not understanding some of the pieces she sees in art museums. She has taken a few art history courses and so is not unfamiliar with the subject matter. Because she did not know anything about the project, we prefaced the test by giving a same scenario explaining that the app was meant to learn more about art pieces. However, we chose not to communicate the specifics goals in order to compare how users interact with design without clearly defined goals. The test was also conducted in Sawyer. Joyce conducted the test, and Stephanie took notes.
+Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth because she expressed interest in the app, as she does find herself not understanding some of the pieces she sees in art museums. She has taken a few art history courses and so is not unfamiliar with the subject matter. Because she did not know anything about the project, we prefaced the test by giving her the same scenario as above and explaining that the app is meant to help people learn more about art pieces. The test was also conducted in Sawyer. Joyce conducted the test, and Stephanie took notes.
 
 # Critical Incidents and Revisions
 
@@ -83,7 +83,7 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 
 **Severity Level:** 4
 
-**Revisions:** Our solution was to change the favorite button into a more visible “like” button right underneath the work’s title. The action of “favoriting” can be made even more obvious with an animation of a picture disappearing into the profile tab.
+**Revisions:** Our solution was to change the favorite button into a more visible “like” button right underneath the work’s title. We also added some more explicit text to make this functionality even more obvious.
 
 <figure>
 <img src="../assets/images/favorite_new.jpg" alt="New Favorite" style="max-width: 50%;"/>
@@ -92,7 +92,7 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 
 ## Museum Profile
 
-**Incident:** Upon opening the application and being shown the initial screen for the “Search mode,” Elizabeth, like Liam, first went to the “Museum Profile” for the purposes of initially exploring the application. This incident was negative, as the order of interaction was not intuitive to our test users. Starting with this mode may be more ideal; it places the app within the user’s settings by communicating that the app is museum-specific and clearly defining what artwork is covered. Although not directly part of a primary task, the museum profile orients the user toward accomplishing the task of searching art pieces.
+**Incident:** Upon opening the application and being shown the initial screen for the “Search mode,” Elizabeth, like Liam, first went to the “Museum Profile” for the purposes of initially exploring the application. This incident was negative, as the order of interaction was not intuitive to our test users. Starting with the museum profile as the launch page may be more ideal; it places the app within the user’s settings by communicating that the app is museum-specific and clearly defining what artwork is covered. Although not directly part of a primary task, the museum profile orients the user toward accomplishing the task of searching art pieces.
 
 **Severity Level:** 4
 
@@ -118,7 +118,7 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 
 **Severity Level:** 1
 
-**Revisions:** Changing these words so that they better suit the user’s vocabulary to increase the usability of these key interactions. 
+**Revisions:** Changing these words so that they better suit the user’s vocabulary to increase the usability of these key interactions. We changed the text for searching by text to "Text Search" instead of just "Search," and changed the "Threads" tab to say "Your Threads".
 
 <figure>
 <img src="../assets/images/search_new.jpg" alt="New Search" style="max-width: 50%;"/>
@@ -140,7 +140,7 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 
 **Severity Level:** 2
 
-**Revisions:** To solve this problem of not allowing users to easily look up artworks, upon launching the “Search” mode for the first time, a tutorial overlay page outlines the QR code look-up process for the user.
+**Revisions:** To solve this problem of not effectively communicating the ability to use QR codes to look up artworks, upon launching the “Search” mode for the first time, a tutorial overlay page outlines the QR code look-up process for the user.
 
 <figure>
 <img src="../assets/images/tutorial_new.jpg" alt="New Tutorial" style="max-width: 50%;"/>
@@ -171,12 +171,19 @@ From the launch page, users can start their search. Opening the Search mode for 
 <figcaption>Revised search</figcaption>
 </figure>
 
-Clicking on the artwork opens a nested art profile page with “About,” “Learn More,” and “Discussion” tabs the user can toggle between to support the first task of discovering more context about artworks. The “About” tab contains drop-down menus of further background information, including “Context,” “Inspiration,” “Genre,” and “Related Works” that can be collapsed and expanded, as shown in Screen 2.2-2.3.
+Clicking on the artwork opens a nested art profile page with “About,” “Learn More,” and “Discussion” tabs the user can toggle between to support the first task of discovering more context about artworks. The “About” tab contains drop-down menus of further background information, including “Context,” “Inspiration,” “Genre,” and “Related Works” that can be collapsed and expanded. Shown below is a work flow that allows the user to explore information, and identify the inspiration section specifically.
 
 <figure>
-<img src="../assets/images/paper_prototyping_art_profile_1.jpg" alt="Revised Art Profile" style="max-width: 100%;"/>
-<figcaption>Art profile</figcaption>
+<img src="../assets/images/pp-about-inspo.jpg" alt="cam" style="max-width: 100%;"\
+/>
+<figcaption>User clicks on inspiration</figcaption>
 </figure>
+<figure>
+<img src="../assets/images/pp-learn-more.jpg" alt="cam" style="max-width: 100%;"/\
+>
+<figcaption>User clicks on Learn More</figcaption>
+</figure>
+
 
 ## Task 2: Discuss artwork with others in order to further engage with the pieces
 <figure>
@@ -195,4 +202,4 @@ Clicking on the User Profile mode displays the initial Screen 3.1. The user prof
 
 # Key Revisions
 
-One of the key revisions we made was the search functionality. First, we added in clear and large buttons to delineate the difference between the text search and the QR search. Then we added more explicit text so that the users could distinguish between the kinds of search and understand why they were different. Lastly, we added in a one-time tutorial of how the QR search functionality would work. All of these changes helped make the search function much clearer and improve the usability. Since searching for the artwork to pull up its artwork profile is a key functionality of our design, this was very important to us to change. Another key revision was changing how the "About" and "Learn More" pages were divided, and we found that after the first usability test, we needed to make this distinction more intuitive. We decided to modify what kinds of information would be located under each tab. We noticed in our second and third usability tests, this distinction was a lot more clear to our users, and they had no problem finding what they needed with this modification. Thus, we found this change to be incredibly important for our design and usability. Obviously, since finding background information is a key task we are trying to support, making it as easy as possible for the user to find the background information they are explicitly looking for is important to us.
+One of the key revisions we made was the search functionality. First, we added in clear and large buttons to delineate the difference between the text search and the QR search. Then we added more explicit text so that the users could distinguish between the kinds of search and understand why they were different. Lastly, we added in a one-time tutorial of how the QR search functionality would work. All of these changes helped make the search function much clearer and improve the usability. Since searching for the artwork to pull up its artwork profile is a key functionality of our design, this was very important to us to change. Another key revision was changing how the "About" and "Learn More" pages were divided, and we found that after the first usability test, we needed to make this distinction more intuitive. We decided to modify what kinds of information would be located under each tab. We noticed in our second and third usability tests, this distinction was a lot more clear to our users, and they had no problem finding what they needed with this modification. Thus, we found this change to be incredibly important for our design and usability. Obviously, since finding background information is a key task we are trying to support, making it as easy as possible for the user to find the background information they are explicitly looking for is important to us. Lastly, adding the launch page to be the museum profile was a key revision for us, because it helps orient the user and helps her understand what the other tabs are for. We didn't realize that the "Museum Profile" tab might be confusing to the user if they are not brought their first, so this was another key revision. It helps the user build a correct "mental model" of how the app works.
