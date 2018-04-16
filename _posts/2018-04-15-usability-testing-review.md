@@ -85,27 +85,27 @@ The application has three primary modes: the museum profile, search, and user pr
 From this page, users can start their search. Opening the Search mode for the first time prompts a tutorial, as shown in Screen 1.1.0, detailing how to look up an image using a QR code. In Screen 1.1.1, users can then choose between a text (Screens 1.2-1.3) or QR search (Screens 1.4-1.6). Both lead to a results page, in Screen 1.7, where the desired artwork can be chosen.
 
 <figure>
-<img src="../assets/images/ppf_ search.pdf" alt="Revised Search" style="max-width: 100%;"/>
+<img src="../assets/images/ppf_search.jpg" alt="Revised Search" style="max-width: 100%;"/>
 <figcaption>Revised search</figcaption>
 </figure>
 
 Clicking on the artwork opens a nested art profile page with “About,” “Learn More,” and “Discussion” tabs the user can toggle between to support the first task of discovering more context about artworks. The “About” tab contains drop-down menus of further background information, including “Context,” “Inspiration,” “Genre,” and “Related Works” that can be collapsed and expanded, as shown in Screen 2.2-2.3.
 
 <figure>
-<img src="../assets/images/ppf_ art_profile_1.pdf" alt="Revised Art Profile" style="max-width: 100%;"/>
+<img src="../assets/images/ppf_art_profile_1.jpg" alt="Revised Art Profile" style="max-width: 100%;"/>
 <figcaption>Art profile</figcaption>
 </figure>
 
 ## Task 2: Discuss artwork with others in order to further engage with the pieces
 <figure>
-<img src="../assets/images/ppf_ art_profile_2.pdf" alt="Revised Art Profile 2" style="max-width: 100%;"/>
+<img src="../assets/images/ppf_art_profile_2.jpg" alt="Revised Art Profile 2" style="max-width: 100%;"/>
 <figcaption>Art profile (cont.)</figcaption>
 </figure>
 
 The “Discussion” tab (Screen 2.6) supports the task of discussing art with others. In this tab, users can post and reply to other users’ comments about this artwork, as shown in Screens 2.7-10.
 
 <figure>
-<img src="../assets/images/ppf_ user_profile.pdf" alt="Revised User Profile" style="max-width: 100%;"/>
+<img src="../assets/images/ppf_user_profile.jpg" alt="Revised User Profile" style="max-width: 100%;"/>
 <figcaption>User profile</figcaption>
 </figure>
 
