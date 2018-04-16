@@ -56,13 +56,19 @@ Both Liam and Elizabeth did not understand the capability to scan QR codes, whic
 Severity: 2
 
 <figure>
-<img src="../assets/images/tutorial_old.jpg" alt="Old Tutorial" style="max-width: 100%;"/>
+<img src="../assets/images/tutorial_old.jpg" alt="Old Tutorial" style="max-width: 50%;"/>
 <figcaption>Old initial search screen</figcaption>
 </figure>
 
 To solve this problem of not allowing users to easily look up artworks, upon launching the “Search” mode for the first time, a tutorial overlay page outlines the QR code look-up process for the user.
 
 <figure>
-<img src="../assets/images/tutorial_new.jpg" alt="New Tutorial" style="max-width: 100%;"/>
+<img src="../assets/images/tutorial_new.jpg" alt="New Tutorial" style="max-width: 50%;"/>
 <figcaption>New initial search screen</figcaption>
+</figure>
+
+## Overview of Revised Prototype
+<figure>
+<img src="../assets/images/overview-pic-updated.jpg" alt="Revised Overview" style="max-width: 100%;"/>
+<figcaption>Revised paper prototype overview</figcaption>
 </figure>
