@@ -112,7 +112,18 @@ We conducted the first usability test with Hussain Bukhari, a senior at Williams
 
 **Severity Level:** 3 (This is one of the main tasks our app is trying to support).
 
-**Revision:** Modifying the “Learn More” section to be a series of very in-depth information. 
+**Revision:** Modifying the “Learn More” section to be a series of very in-depth information and having the "About" page contain information that used to be in the "Learn More" section.
+
+<figure>
+<img src="../assets/images/pp-about.jpg" alt="cam" style="max-width: 100%;"/>
+<figcaption>New About Page</figcaption>
+</figure>
+
+<figure>
+<img src="../assets/images/pp-learn-more.jpg" alt="cam" style="max-width: 100%;"/>
+<figcaption>New Learn More Page</figcaption>
+</figure>
+
 
 ### QR Code Scanner
 
@@ -126,6 +137,11 @@ We conducted the first usability test with Hussain Bukhari, a senior at Williams
 **Severity Level:** 1
 
 **Revision:** Simply adding a box/grid layout to make it easier for the user.
+
+<figure>
+<img src="../assets/images/pp-cam-2.jpg" alt="cam" style="max-width: 100%;"/>
+<figcaption>Updated QR code screen</figcaption>
+</figure>
 
 ### Discussion
 

@@ -8,7 +8,7 @@ header:
 # Usability Test Overviews
 
 ## Usability Test #1
-We conducted the first usability test with Hussain Bukhari, a senior at Williams, in a study room in Sawyer Library. We chose to start with Hussain because he is not an art history major but has taken four art history classes at Williams and has a deep appreciation for art, so he sits in the middle in terms of art education. We followed the test protocol outlined in Kathleen Gomollâ€™s â€œSome Techniques for Observing Users,â€ starting with a brief explanation of the app and the format and rules for the usability test. (We followed the same protocol for the following two usability tests as well). We explained each of our two main tasks in a scenario format for the user, and asked him to carry out those tasks while explaining his thought process and asking questions (even if we couldnâ€™t answer them). Stephanie facilitated the usability test, and Joyce took notes.
+We conducted the first usability test with Hussain Bukhari, a senior at Williams, in a study room in Sawyer Library. We chose to start with Hussain because he is not an art history major but has taken four art history classes at Williams and has a deep appreciation for art, so he sits in the middle in terms of art education. We followed the test protocol outlined in Kathleen Gomollœôòùs œôòüSome Techniques for Observing Users,œôòı starting with a brief explanation of the app and the format and rules for the usability test. (We followed the same protocol for the following two usability tests as well). We explained each of our two main tasks in a scenario format for the user, and asked him to carry out those tasks while explaining his thought process and asking questions (even if we couldnœôòùt answer them). Stephanie facilitated the usability test, and Joyce took notes.
 
 ## Usability Test #2
 Our second usability test participant was Liam Bardong, who was also an interview subject during the contextual inquiry research. We chose Liam because he is familiar with the purpose of the app and its use case. We started the tests by laying out brief scenarios on paper of being in the museum and approaching a painting. We modified this and the following test compared to the first test by writing these scenarios down on paper and giving them to our participant to read out loud and refer to throughout the test. This test was conducted in Sawyer Library, a quiet space. Cliff conducted the test, and Joyce took notes.
@@ -18,7 +18,7 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 
 # Critical Incidents and Revisions
 
-## â€œAboutâ€ vs â€œLearn Moreâ€
+## œôòüAboutœôòı vs œôòüLearn Moreœôòı
 
 <figure>
 <img src="../assets/images/paper-prototype-about.jpg" alt="About" style="max-width: 100%;"/>
@@ -29,11 +29,11 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 <figcaption>Learn More screen under artwork profile</figcaption>
 </figure>
 
-**Incident:** While trying to navigate to a page that contained the inspiration for an artwork, we realized that it wasnâ€™t clear to a general user whether the inspiration information should be under â€œaboutâ€ or â€œlearn more.â€ This led us to believe we may want to put more information about the inspiration and context under the â€œaboutâ€ tab, and leave very in-depth understanding to the â€œlearn moreâ€ section (e.g. further information about the artist and the history of the movement). 
+**Incident:** While trying to navigate to a page that contained the inspiration for an artwork, we realized that it wasnœôòùt clear to a general user whether the inspiration information should be under œôòüaboutœôòı or œôòülearn more.œôòı This led us to believe we may want to put more information about the inspiration and context under the œôòüaboutœôòı tab, and leave very in-depth understanding to the œôòülearn moreœôòı section (e.g. further information about the artist and the history of the movement). 
 
 **Severity Level:** 3 (This is one of the main tasks our app is trying to support).
 
-**Revision:** Modifying the â€œLearn Moreâ€ section to be a series of very in-depth information. 
+**Revision:** Modifying the œôòüLearn Moreœôòı section to be a series of very in-depth information. 
 
 <figure>
 <img src="../assets/images/pp-about.jpg" alt="cam" style="max-width: 100%;"/>
@@ -53,7 +53,7 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 <figcaption>QR Scanner</figcaption>
 </figure>
 
-**Incident:** While trying to â€œfakeâ€ taking a scan of the QR code, our user noted that he didnâ€™t really know where to put the QR code, and that it would be nice to have a box on the camera screen so the user knows exactly where to put it. 
+**Incident:** While trying to œôòüfakeœôòı taking a scan of the QR code, our user noted that he didnœôòùt really know where to put the QR code, and that it would be nice to have a box on the camera screen so the user knows exactly where to put it. 
 
 **Severity Level:** 1
 
@@ -71,7 +71,7 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 <figcaption>Discussion</figcaption>
 </figure>
 
-**Incident:** This was a positive incident; our user was quickly and easily able to locate the â€œdiscussionâ€ section and understand the gist of the interface and how it would operate. This is likely because discussions like this exist in similar formats on other platforms. 
+**Incident:** This was a positive incident; our user was quickly and easily able to locate the œôòüdiscussionœôòı section and understand the gist of the interface and how it would operate. This is likely because discussions like this exist in similar formats on other platforms. 
 
 ## Favoriting
 <figure>
@@ -79,11 +79,11 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 <figcaption>Old favorite button</figcaption>
 </figure>
 
-**Incident:** Favoriting and adding artworks to the userâ€™s profile was not readily apparent. Although Liam was able to discover this feature after exploring the application and browsing his user profile, the discovery was only in hindsight after he had already left the artwork profile screen. This incident was negative. Because favoriting artworks is one of our six primary tasks and the main feature of the user profile, this feature needed to be made more obvious.
+**Incident:** Favoriting and adding artworks to the userœôòùs profile was not readily apparent. Although Liam was able to discover this feature after exploring the application and browsing his user profile, the discovery was only in hindsight after he had already left the artwork profile screen. This incident was negative. Because favoriting artworks is one of our six primary tasks and the main feature of the user profile, this feature needed to be made more obvious.
 
 **Severity Level:** 4
 
-**Revisions:** Our solution was to change the favorite button into a more visible â€œlikeâ€ button right underneath the workâ€™s title. The action of â€œfavoritingâ€ can be made even more obvious with an animation of a picture disappearing into the profile tab.
+**Revisions:** Our solution was to change the favorite button into a more visible œôòülikeœôòı button right underneath the workœôòùs title. The action of œôòüfavoritingœôòı can be made even more obvious with an animation of a picture disappearing into the profile tab.
 
 <figure>
 <img src="../assets/images/favorite_new.jpg" alt="New Favorite" style="max-width: 50%;"/>
@@ -92,7 +92,7 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 
 ## Museum Profile
 
-**Incident:** Upon opening the application and being shown the initial screen for the â€œSearch mode,â€ Elizabeth, like Liam, first went to the â€œMuseum Profileâ€ for the purposes of initially exploring the application. This incident was negative, as the order of interaction was not intuitive to our test users. Starting with this mode may be more ideal; it places the app within the userâ€™s settings by communicating that the app is museum-specific and clearly defining what artwork is covered. Although not directly part of a primary task, the museum profile orients the user toward accomplishing the task of searching art pieces.
+**Incident:** Upon opening the application and being shown the initial screen for the œôòüSearch mode,œôòı Elizabeth, like Liam, first went to the œôòüMuseum Profileœôòı for the purposes of initially exploring the application. This incident was negative, as the order of interaction was not intuitive to our test users. Starting with this mode may be more ideal; it places the app within the userœôòùs settings by communicating that the app is museum-specific and clearly defining what artwork is covered. Although not directly part of a primary task, the museum profile orients the user toward accomplishing the task of searching art pieces.
 
 **Severity Level:** 4
 
@@ -114,11 +114,11 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 <figcaption>Old thread syntax</figcaption>
 </figure>
 
-**Incident:** Some of the syntax employed resulted in negative incidents, as they did not successfully translate their ascribed functionality. In particular, at the search page, Elizabeth didnâ€™t understand the difference between being in the â€œSearchâ€ mode and the button option to â€œSearch.â€ Additionally, she did not recognize that the â€œThreadsâ€ section of the User Profile would display the threads she participated in. 
+**Incident:** Some of the syntax employed resulted in negative incidents, as they did not successfully translate their ascribed functionality. In particular, at the search page, Elizabeth didnœôòùt understand the difference between being in the œôòüSearchœôòı mode and the button option to œôòüSearch.œôòı Additionally, she did not recognize that the œôòüThreadsœôòı section of the User Profile would display the threads she participated in. 
 
 **Severity Level:** 1
 
-**Revisions:** Changing these words so that they better suit the userâ€™s vocabulary to increase the usability of these key interactions. 
+**Revisions:** Changing these words so that they better suit the userœôòùs vocabulary to increase the usability of these key interactions. 
 
 <figure>
 <img src="../assets/images/search_new.jpg" alt="New Search" style="max-width: 50%;"/>
@@ -140,7 +140,7 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 
 **Severity Level:** 2
 
-**Revisions:** To solve this problem of not allowing users to easily look up artworks, upon launching the â€œSearchâ€ mode for the first time, a tutorial overlay page outlines the QR code look-up process for the user.
+**Revisions:** To solve this problem of not allowing users to easily look up artworks, upon launching the œôòüSearchœôòı mode for the first time, a tutorial overlay page outlines the QR code look-up process for the user.
 
 <figure>
 <img src="../assets/images/tutorial_new.jpg" alt="New Tutorial" style="max-width: 50%;"/>
@@ -171,7 +171,7 @@ From the launch page, users can start their search. Opening the Search mode for 
 <figcaption>Revised search</figcaption>
 </figure>
 
-Clicking on the artwork opens a nested art profile page with â€œAbout,â€ â€œLearn More,â€ and â€œDiscussionâ€ tabs the user can toggle between to support the first task of discovering more context about artworks. The â€œAboutâ€ tab contains drop-down menus of further background information, including â€œContext,â€ â€œInspiration,â€ â€œGenre,â€ and â€œRelated Worksâ€ that can be collapsed and expanded, as shown in Screen 2.2-2.3.
+Clicking on the artwork opens a nested art profile page with œôòüAbout,œôòı œôòüLearn More,œôòı and œôòüDiscussionœôòı tabs the user can toggle between to support the first task of discovering more context about artworks. The œôòüAboutœôòı tab contains drop-down menus of further background information, including œôòüContext,œôòı œôòüInspiration,œôòı œôòüGenre,œôòı and œôòüRelated Worksœôòı that can be collapsed and expanded, as shown in Screen 2.2-2.3.
 
 <figure>
 <img src="../assets/images/paper_prototyping_art_profile_1.jpg" alt="Revised Art Profile" style="max-width: 100%;"/>
@@ -184,14 +184,14 @@ Clicking on the artwork opens a nested art profile page with â€œAbout,â€ â€œLea
 <figcaption>Art profile (cont.)</figcaption>
 </figure>
 
-The â€œDiscussionâ€ tab (Screen 2.6) supports the task of discussing art with others. In this tab, users can post and reply to other usersâ€™ comments about this artwork, as shown in Screens 2.7-10.
+The œôòüDiscussionœôòı tab (Screen 2.6) supports the task of discussing art with others. In this tab, users can post and reply to other usersœôòù comments about this artwork, as shown in Screens 2.7-10.
 
 <figure>
 <img src="../assets/images/paper_prototyping_user_profile.jpg" alt="Revised User Profile" style="max-width: 100%;"/>
 <figcaption>User profile</figcaption>
 </figure>
 
-Clicking on the User Profile mode displays the initial Screen 3.1. The user profile displays a header containing a user profile picture, name, and bio. The body of the page consist of â€œFavoritesâ€ and â€œThreadsâ€ tabs. The â€œFavoritesâ€ tab displays favorited artworks. Clicking on any of these artworks, in Screen 3.2, brings the user to a nested art profile page, in Screen 3.3. The â€œThreadsâ€ tab (Screen 3.5) displays a list of discussions the user has participated in and highlights those with unread replies. Clicking on any of these comments, in Screen 3.6, opens a nested discussion page, as shown in Screen 3.7.
+Clicking on the User Profile mode displays the initial Screen 3.1. The user profile displays a header containing a user profile picture, name, and bio. The body of the page consist of œôòüFavoritesœôòı and œôòüThreadsœôòı tabs. The œôòüFavoritesœôòı tab displays favorited artworks. Clicking on any of these artworks, in Screen 3.2, brings the user to a nested art profile page, in Screen 3.3. The œôòüThreadsœôòı tab (Screen 3.5) displays a list of discussions the user has participated in and highlights those with unread replies. Clicking on any of these comments, in Screen 3.6, opens a nested discussion page, as shown in Screen 3.7.
 
 # Key Revisions
 
