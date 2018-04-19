@@ -8,13 +8,13 @@ header:
 # Usability Test Overviews
 
 ## Usability Test #1
-We conducted the first usability test with Hussain Bukhari, a senior at Williams, in a study room in Sawyer Library. We chose to start with Hussain because he is not an art history major but has taken four art history classes at Williams and has a deep appreciation for art, so he sits in the middle in terms of art education. We followed the test protocol outlined in Kathleen Gomoll’s “Some Techniques for Observing Users,” starting with a brief explanation of the app and the format and rules for the usability test. (We followed the same protocol for the following two usability tests as well). We explained each of our two main tasks in a scenario format for the user, and asked him to carry out those tasks while explaining his thought process and asking questions (even if we couldn’t answer them). Stephanie facilitated the usability test, and Joyce took notes.
+We conducted the first usability test with a senior at Williams, in a study room in Sawyer Library. We chose to start with him because he is not an art history major but has taken four art history classes at Williams and has a deep appreciation for art, so he sits in the middle in terms of art education. We followed the test protocol outlined in Kathleen Gomoll’s “Some Techniques for Observing Users,” starting with a brief explanation of the app and the format and rules for the usability test. (We followed the same protocol for the following two usability tests as well). We explained each of our two main tasks in a scenario format for the user, and asked him to carry out those tasks while explaining his thought process and asking questions (even if we couldn’t answer them). Stephanie facilitated the usability test, and Joyce took notes.
 
 ## Usability Test #2
-Our second usability test participant was Liam Bardong, who was also an interview subject during the contextual inquiry research. We chose Liam because he is familiar with the purpose of the app and its use case. We started the tests by laying out brief scenarios on paper of being in the museum and approaching a painting. We modified this and the following test compared to the first test by writing these scenarios down on paper and giving them to our participant to read out loud and refer to throughout the test. This test was conducted in Sawyer Library, a quiet space. Cliff conducted the test, and Joyce took notes.
+Our second usability test participant was a junior at Williams. We chose him because he is familiar with the purpose of the app and its use case. We started the tests by laying out brief scenarios on paper of being in the museum and approaching a painting. We modified this and the following test compared to the first test by writing these scenarios down on paper and giving them to our participant to read out loud and refer to throughout the test. This test was conducted in Sawyer Library, a quiet space. Cliff conducted the test, and Joyce took notes.
 
 ## Usability Test #3
-Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth because she expressed interest in the app, as she does find herself not understanding some of the pieces she sees in art museums. She has taken a few art history courses and so is not unfamiliar with the subject matter. Because she did not know anything about the project, we prefaced the test by giving her the same scenario as above and explaining that the app is meant to help people learn more about art pieces. The test was also conducted in Sawyer. Joyce conducted the test, and Stephanie took notes.
+Our third usability test participant was a female senior at Williams. We chose her because she expressed interest in the app, as she does find herself not understanding some of the pieces she sees in art museums. She has taken a few art history courses and so is not unfamiliar with the subject matter. Because she did not know anything about the project, we prefaced the test by giving her the same scenario as above and explaining that the app is meant to help people learn more about art pieces. The test was also conducted in Sawyer. Joyce conducted the test, and Stephanie took notes.
 
 # Critical Incidents and Revisions
 
@@ -79,7 +79,7 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 <figcaption>Old favorite button</figcaption>
 </figure>
 
-**Incident:** Favoriting and adding artworks to the user’s profile was not readily apparent. Although Liam was able to discover this feature after exploring the application and browsing his user profile, the discovery was only in hindsight after he had already left the artwork profile screen. This incident was negative. Because favoriting artworks is one of our six primary tasks and the main feature of the user profile, this feature needed to be made more obvious.
+**Incident:** Favoriting and adding artworks to the user’s profile was not readily apparent. Although participant 2 was able to discover this feature after exploring the application and browsing his user profile, the discovery was only in hindsight after he had already left the artwork profile screen. This incident was negative. Because favoriting artworks is one of our six primary tasks and the main feature of the user profile, this feature needed to be made more obvious.
 
 **Severity Level:** 4
 
@@ -92,7 +92,7 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 
 ## Museum Profile
 
-**Incident:** Upon opening the application and being shown the initial screen for the “Search mode,” Elizabeth, like Liam, first went to the “Museum Profile” for the purposes of initially exploring the application. This incident was negative, as the order of interaction was not intuitive to our test users. Starting with the museum profile as the launch page may be more ideal; it places the app within the user’s settings by communicating that the app is museum-specific and clearly defining what artwork is covered. Although not directly part of a primary task, the museum profile orients the user toward accomplishing the task of searching art pieces.
+**Incident:** Upon opening the application and being shown the initial screen for the “Search mode,” both participants two and three first went to the “Museum Profile” for the purposes of initially exploring the application. This incident was negative, as the order of interaction was not intuitive to our test users. Starting with the museum profile as the launch page may be more ideal; it places the app within the user’s settings by communicating that the app is museum-specific and clearly defining what artwork is covered. Although not directly part of a primary task, the museum profile orients the user toward accomplishing the task of searching art pieces.
 
 **Severity Level:** 4
 
@@ -114,7 +114,7 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 <figcaption>Old thread syntax</figcaption>
 </figure>
 
-**Incident:** Some of the syntax employed resulted in negative incidents, as they did not successfully translate their ascribed functionality. In particular, at the search page, Elizabeth didn’t understand the difference between being in the “Search” mode and the button option to “Search.” Additionally, she did not recognize that the “Threads” section of the User Profile would display the threads she participated in. 
+**Incident:** Some of the syntax employed resulted in negative incidents, as they did not successfully translate their ascribed functionality. In particular, at the search page, participant 3 didn’t understand the difference between being in the “Search” mode and the button option to “Search.” Additionally, she did not recognize that the “Threads” section of the User Profile would display the threads she participated in. 
 
 **Severity Level:** 1
 
@@ -136,7 +136,7 @@ Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth 
 <figcaption>Old initial search screen</figcaption>
 </figure>
 
-**Incident:** Both Liam and Elizabeth did not understand the capability to scan QR codes, which was another negative incident. However, once this feature of being able to scan the QR codes displayed on artwork placards was explained to them, both preferred to use this over the text search.
+**Incident:** Both participants two and three did not understand the capability to scan QR codes, which was another negative incident. However, once this feature of being able to scan the QR codes displayed on artwork placards was explained to them, both preferred to use this over the text search.
 
 **Severity Level:** 2
 
