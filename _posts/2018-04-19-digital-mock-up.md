@@ -42,7 +42,7 @@ excerpt: ""
 </figure>
 
 <figure>
-<img src="../assets/images/mockup-discuss.jpg" alt="cam" style="max-width: 100%;"/>
+<img src="../assets/images/mockup-profile.jpg" alt="cam" style="max-width: 100%;"/>
 <figcaption>When the user navigates to the user profile, he can see all the threads he has notifications in. In this case, someone has responded to his previous comment. The user can then click on that notification, and will be taken to the discussion section of the artwork. The user can then choose to respond to that new comment. </figcaption>
 </figure>
 
