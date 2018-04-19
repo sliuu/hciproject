@@ -75,7 +75,12 @@ var store = [{
         "url": "http://localhost:4000/hciproject/usability-testing-check-in/",
         "teaser":null},{
         "title": "Usability Testing Review",
-        "excerpt":"Usability Test #2Our second usability test participant was Liam Bardong, who was also an interview subject during the contextual inquiry research. We chose Liam because he is familiar with the purpose of the app and its use case. We started the test by laying out a brief scenario of being...","categories": [],
+        "excerpt":"Usability Test OverviewsUsability Test #1We conducted the first usability test with a senior at Williams, in a study room in Sawyer Library. We chose to start with him because he is not an art history major but has taken four art history classes at Williams and has a deep appreciation...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/hciproject/usability-testing-review/",
+        "teaser":null},{
+        "title": "Digital Mock-Up",
+        "excerpt":"Overview of Digital Mock-UpDigital Mock-UpLaunch screen that provides information about the museum and the museum map to navigate exhibits.Task 1: Learning Background Information about ArtworksFrom the launch page, the user can choose the \"Search\" tab in the bottom navigation bar. This pulls up the choice between a QR search and...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/hciproject/digital-mock-up/",
         "teaser":null}]

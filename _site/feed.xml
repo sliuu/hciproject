@@ -1,44 +1,160 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/hciproject/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hciproject/" rel="alternate" type="text/html" /><updated>2018-04-16T11:08:24-04:00</updated><id>http://localhost:4000/hciproject/</id><title type="html">CSCI376 Project: Art for All</title><subtitle>Collaborative platform for artistic engagement</subtitle><author><name>Art for All</name></author><entry><title type="html">Usability Testing Review</title><link href="http://localhost:4000/hciproject/usability-testing-review/" rel="alternate" type="text/html" title="Usability Testing Review" /><published>2018-04-15T00:00:00-04:00</published><updated>2018-04-15T00:00:00-04:00</updated><id>http://localhost:4000/hciproject/usability-testing-review</id><content type="html" xml:base="http://localhost:4000/hciproject/usability-testing-review/">&lt;h2 id=&quot;usability-test-2&quot;&gt;Usability Test #2&lt;/h2&gt;
-&lt;p&gt;Our second usability test participant was Liam Bardong, who was also an interview subject during the contextual inquiry research. We chose Liam because he is familiar with the purpose of the app and its use case. We started the test by laying out a brief scenario of being in the museum and approaching a painting, for which he didn’t really understand. This test was conducted in Sawyer Library, a quiet space. Cliff conducted the test, and Joyce took notes.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/hciproject/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hciproject/" rel="alternate" type="text/html" /><updated>2018-04-19T00:59:03-04:00</updated><id>http://localhost:4000/hciproject/</id><title type="html">CSCI376 Project: Art for All</title><subtitle>Collaborative platform for artistic engagement</subtitle><author><name>Art for All</name></author><entry><title type="html">Digital Mock-Up</title><link href="http://localhost:4000/hciproject/digital-mock-up/" rel="alternate" type="text/html" title="Digital Mock-Up" /><published>2018-04-19T00:00:00-04:00</published><updated>2018-04-19T00:00:00-04:00</updated><id>http://localhost:4000/hciproject/digital-mock-up</id><content type="html" xml:base="http://localhost:4000/hciproject/digital-mock-up/">&lt;h2 id=&quot;overview-of-digital-mock-up&quot;&gt;Overview of Digital Mock-Up&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/mockup-overview.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Digital Mock-Up&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/mockup-launch.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Launch screen that provides information about the museum and the museum map to navigate exhibits.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;task-1-learning-background-information-about-artworks&quot;&gt;Task 1: Learning Background Information about Artworks&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/mockup-qr.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;From the launch page, the user can choose the &quot;Search&quot; tab in the bottom navigation bar. This pulls up the choice between a QR search and a Text Search. If the user chooses the QR search function, then the user will be presented with a one-time tutorial on how to use this functionality. A camera is then presented for the user to scan the appropriate QR code.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/mockup-text-search.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Alternatively, the user may choose to search by text. In this case, a list of search results will load continuously as the user types in key search words. &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/mockup-learn.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Once the user finds the artwork she is looking for, she may click on the artwork to take her to the artwork profile. From the artwork profile, the user can tab between &quot;About&quot; and &quot;Learn More,&quot; and investigate the information under each. Shown here is the &quot;Analysis&quot; portion of the &quot;About&quot; page.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;task-2-participating-in-discussions-about-art-with-other-users&quot;&gt;Task 2: Participating in Discussions about Art with Other Users&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/mockup-discuss.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;The artwork profile also contains a &quot;Discussion&quot; tab. The user can read through others' comments, reply to threads, or start new threads. There are different labels signifying which users have a scholarly background in art. In this scenario, the user decides to write a new comment to join the discussion.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/mockup-discuss.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;When the user navigates to the user profile, he can see all the threads he has notifications in. In this case, someone has responded to his previous comment. The user can then click on that notification, and will be taken to the discussion section of the artwork. The user can then choose to respond to that new comment. &lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name>Art for All</name></author></entry><entry><title type="html">Usability Testing Review</title><link href="http://localhost:4000/hciproject/usability-testing-review/" rel="alternate" type="text/html" title="Usability Testing Review" /><published>2018-04-15T00:00:00-04:00</published><updated>2018-04-15T00:00:00-04:00</updated><id>http://localhost:4000/hciproject/usability-testing-review</id><content type="html" xml:base="http://localhost:4000/hciproject/usability-testing-review/">&lt;h1 id=&quot;usability-test-overviews&quot;&gt;Usability Test Overviews&lt;/h1&gt;
+
+&lt;h2 id=&quot;usability-test-1&quot;&gt;Usability Test #1&lt;/h2&gt;
+&lt;p&gt;We conducted the first usability test with a senior at Williams, in a study room in Sawyer Library. We chose to start with him because he is not an art history major but has taken four art history classes at Williams and has a deep appreciation for art, so he sits in the middle in terms of art education. We followed the test protocol outlined in Kathleen Gomoll’s “Some Techniques for Observing Users,” starting with a brief explanation of the app and the format and rules for the usability test. (We followed the same protocol for the following two usability tests as well). We explained each of our two main tasks in a scenario format for the user, and asked him to carry out those tasks while explaining his thought process and asking questions (even if we couldn’t answer them). Stephanie facilitated the usability test, and Joyce took notes.&lt;/p&gt;
+
+&lt;h2 id=&quot;usability-test-2&quot;&gt;Usability Test #2&lt;/h2&gt;
+&lt;p&gt;Our second usability test participant was a junior at Williams. We chose him because he is familiar with the purpose of the app and its use case. We started the tests by laying out brief scenarios on paper of being in the museum and approaching a painting. We modified this and the following test compared to the first test by writing these scenarios down on paper and giving them to our participant to read out loud and refer to throughout the test. This test was conducted in Sawyer Library, a quiet space. Cliff conducted the test, and Joyce took notes.&lt;/p&gt;
 
 &lt;h2 id=&quot;usability-test-3&quot;&gt;Usability Test #3&lt;/h2&gt;
-&lt;p&gt;Our third usability test participant was Elizabeth Sullivan. We chose Elizabeth because she expressed interest in the app, as she does find herself not understanding some of the pieces she sees in art museums. She has taken a few art history courses and so is not unfamiliar with the subject matter. Because she did not know anything about the project, we prefaced the test by giving a same scenario explaining that the app was meant to learn more about art pieces. However, we chose not to communicate the specifics goals in order to compare how users interact with design without clearly defined goals. The test was also conducted in Sawyer. Joyce conducted the test, and Stephanie took notes.&lt;/p&gt;
+&lt;p&gt;Our third usability test participant was a female senior at Williams. We chose her because she expressed interest in the app, as she does find herself not understanding some of the pieces she sees in art museums. She has taken a few art history courses and so is not unfamiliar with the subject matter. Because she did not know anything about the project, we prefaced the test by giving her the same scenario as above and explaining that the app is meant to help people learn more about art pieces. The test was also conducted in Sawyer. Joyce conducted the test, and Stephanie took notes.&lt;/p&gt;
 
-&lt;h2 id=&quot;revisions&quot;&gt;Revisions&lt;/h2&gt;
+&lt;h1 id=&quot;critical-incidents-and-revisions&quot;&gt;Critical Incidents and Revisions&lt;/h1&gt;
+
+&lt;h2 id=&quot;about-vs-learn-more&quot;&gt;“About” vs “Learn More”&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/paper-prototype-about.jpg&quot; alt=&quot;About&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;About screen under artwork profile&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/paper-prototype-learnmore.jpg&quot; alt=&quot;Learn More&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Learn More screen under artwork profile&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Incident:&lt;/strong&gt; While trying to navigate to a page that contained the inspiration for an artwork, we realized that it wasn’t clear to a general user whether the inspiration information should be under “about” or “learn more.” This led us to believe we may want to put more information about the inspiration and context under the “about” tab, and leave very in-depth understanding to the “learn more” section (e.g. further information about the artist and the history of the movement).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Severity Level:&lt;/strong&gt; 3 (This is one of the main tasks our app is trying to support).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Revision:&lt;/strong&gt; Modifying the “Learn More” section to be a series of very in-depth information.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-about.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;New About Page&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-learn-more.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;\
+&quot; /&gt;
+&lt;figcaption&gt;New Learn More Page&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;qr-code-scanner&quot;&gt;QR Code Scanner&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/paper-prototype-qrscan.jpg&quot; alt=&quot;QR Scanner&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;QR Scanner&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Incident:&lt;/strong&gt; While trying to “fake” taking a scan of the QR code, our user noted that he didn’t really know where to put the QR code, and that it would be nice to have a box on the camera screen so the user knows exactly where to put it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Severity Level:&lt;/strong&gt; 1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Revision:&lt;/strong&gt; Simply adding a box/grid layout to make it easier for the user.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-cam-2.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Updated QR code screen&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/paper-prototype-discussion-1.jpg&quot; alt=&quot;Discussion&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Discussion&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Incident:&lt;/strong&gt; This was a positive incident; our user was quickly and easily able to locate the “discussion” section and understand the gist of the interface and how it would operate. This is likely because discussions like this exist in similar formats on other platforms.&lt;/p&gt;
+
 &lt;h2 id=&quot;favoriting&quot;&gt;Favoriting&lt;/h2&gt;
-&lt;p&gt;Favoriting and adding artworks to the user’s profile was not readily apparent. Although Liam was able to discover this feature after exploring the application and browsing his user profile, the discovery was only in hindsight after he had already left the artwork profile screen. This incident was negative. Because favoriting artworks is one of our six primary tasks and the main feature of the user profile, this feature needed to be made more obvious.
-Severity: 4&lt;/p&gt;
 &lt;figure&gt;
 &lt;img src=&quot;../assets/images/favorite_old.jpg&quot; alt=&quot;Old Favorite&quot; style=&quot;max-width: 50%;&quot; /&gt;
 &lt;figcaption&gt;Old favorite button&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;Our solution was to change the favorite button into a more visible “like” button right underneath the work’s title. The action of “favoriting” can be made even more obvious with an animation of a picture disappearing into the profile tab.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Incident:&lt;/strong&gt; Favoriting and adding artworks to the user’s profile was not readily apparent. Although participant 2 was able to discover this feature after exploring the application and browsing his user profile, the discovery was only in hindsight after he had already left the artwork profile screen. This incident was negative. Because favoriting artworks is one of our six primary tasks and the main feature of the user profile, this feature needed to be made more obvious.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Severity Level:&lt;/strong&gt; 4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Revisions:&lt;/strong&gt; Our solution was to change the favorite button into a more visible “like” button right underneath the work’s title. We also added some more explicit text to make this functionality even more obvious.&lt;/p&gt;
+
 &lt;figure&gt;
 &lt;img src=&quot;../assets/images/favorite_new.jpg&quot; alt=&quot;New Favorite&quot; style=&quot;max-width: 50%;&quot; /&gt;
 &lt;figcaption&gt;New favorite button&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h2 id=&quot;museum-profile&quot;&gt;Museum Profile&lt;/h2&gt;
-&lt;p&gt;Upon opening the application and being shown the initial screen for the “Search mode,” Elizabeth, like Liam, first went to the “Museum Profile” for the purposes of initially exploring the application. This incident was negative, as the order of interaction was not intuitive to our test users. Starting with this mode may be more ideal; it places the app within the user’s settings by communicating that the app is museum-specific and clearly defining what artwork is covered. Although not directly part of a primary task, the museum profile orients the user toward accomplishing the task of searching art pieces.
-Severity: 4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Incident:&lt;/strong&gt; Upon opening the application and being shown the initial screen for the “Search mode,” both participants two and three first went to the “Museum Profile” for the purposes of initially exploring the application. This incident was negative, as the order of interaction was not intuitive to our test users. Starting with the museum profile as the launch page may be more ideal; it places the app within the user’s settings by communicating that the app is museum-specific and clearly defining what artwork is covered. Although not directly part of a primary task, the museum profile orients the user toward accomplishing the task of searching art pieces.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Severity Level:&lt;/strong&gt; 4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Revisions:&lt;/strong&gt; Creating a “Launch Screen” that will make more sense to the user.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/ppf_homepage.jpg&quot; alt=&quot;homepage&quot; style=&quot;max-width: 50%;&quot; /&gt;
+&lt;figcaption&gt;Launch screen&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h2 id=&quot;user-vocabulary&quot;&gt;User Vocabulary&lt;/h2&gt;
-&lt;p&gt;Some of the syntax employed resulted in negative incidents, as they did not successfully translate their ascribed functionality. In particular, at the search page, Elizabeth didn’t understand the difference between being in the “Search” mode and the button option to “Search.” Additionally, she did not recognize that the “Threads” section of the User Profile would display the threads she participated in. Changing these words to that which better suits the user’s vocabulary increases the usability of these key interactions. 
-Severity: 1&lt;/p&gt;
-
 &lt;figure&gt;
 &lt;img src=&quot;../assets/images/search_old.jpg&quot; alt=&quot;Old Search&quot; style=&quot;max-width: 50%;&quot; /&gt;
 &lt;figcaption&gt;Old search syntax&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;../assets/images/search_new.jpg&quot; alt=&quot;New Search&quot; style=&quot;max-width: 50%;&quot; /&gt;
-&lt;figcaption&gt;New search syntax&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
 &lt;img src=&quot;../assets/images/threads_old.jpg&quot; alt=&quot;Old Thread&quot; style=&quot;max-width: 50%;&quot; /&gt;
 &lt;figcaption&gt;Old thread syntax&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Incident:&lt;/strong&gt; Some of the syntax employed resulted in negative incidents, as they did not successfully translate their ascribed functionality. In particular, at the search page, participant 3 didn’t understand the difference between being in the “Search” mode and the button option to “Search.” Additionally, she did not recognize that the “Threads” section of the User Profile would display the threads she participated in.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Severity Level:&lt;/strong&gt; 1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Revisions:&lt;/strong&gt; Changing these words so that they better suit the user’s vocabulary to increase the usability of these key interactions. We changed the text for searching by text to “Text Search” instead of just “Search,” and changed the “Threads” tab to say “Your Threads”.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/search_new.jpg&quot; alt=&quot;New Search&quot; style=&quot;max-width: 50%;&quot; /&gt;
+&lt;figcaption&gt;New search syntax&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
@@ -47,47 +163,59 @@ Severity: 1&lt;/p&gt;
 &lt;/figure&gt;
 
 &lt;h2 id=&quot;qr-code-search-tutorial&quot;&gt;QR Code Search Tutorial&lt;/h2&gt;
-&lt;p&gt;Both Liam and Elizabeth did not understand the capability to scan QR codes, which was another negative incident. However, once this feature of being able to scan the QR codes displayed on artwork placards was explained to them, both preferred to use this over the text search.
-Severity: 2&lt;/p&gt;
-
 &lt;figure&gt;
 &lt;img src=&quot;../assets/images/tutorial_old.jpg&quot; alt=&quot;Old Tutorial&quot; style=&quot;max-width: 50%;&quot; /&gt;
 &lt;figcaption&gt;Old initial search screen&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;To solve this problem of not allowing users to easily look up artworks, upon launching the “Search” mode for the first time, a tutorial overlay page outlines the QR code look-up process for the user.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Incident:&lt;/strong&gt; Both participants two and three did not understand the capability to scan QR codes, which was another negative incident. However, once this feature of being able to scan the QR codes displayed on artwork placards was explained to them, both preferred to use this over the text search.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Severity Level:&lt;/strong&gt; 2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Revisions:&lt;/strong&gt; To solve this problem of not effectively communicating the ability to use QR codes to look up artworks, upon launching the “Search” mode for the first time, a tutorial overlay page outlines the QR code look-up process for the user.&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;../assets/images/tutorial_new.jpg&quot; alt=&quot;New Tutorial&quot; style=&quot;max-width: 50%;&quot; /&gt;
 &lt;figcaption&gt;New initial search screen&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;h2 id=&quot;overview-of-revised-prototype&quot;&gt;Overview of Revised Prototype&lt;/h2&gt;
+&lt;h1 id=&quot;overview-of-revised-prototype&quot;&gt;Overview of Revised Prototype&lt;/h1&gt;
 &lt;figure&gt;
 &lt;img src=&quot;../assets/images/overview-pic-updated.jpg&quot; alt=&quot;Revised Overview&quot; style=&quot;max-width: 100%;&quot; /&gt;
 &lt;figcaption&gt;Revised paper prototype overview&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;The application has three primary modes: the museum profile, search, and user profile. The yellow highlighted box indicates which mode the user is in. Initially opening the application brings the user to the Museum profile mode page, as shown below.&lt;/p&gt;
+
 &lt;figure&gt;
 &lt;img src=&quot;../assets/images/ppf_homepage.jpg&quot; alt=&quot;homepage&quot; style=&quot;max-width: 50%;&quot; /&gt;
 &lt;figcaption&gt;Launch screen&lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;h1 id=&quot;primary-tasks&quot;&gt;Primary Tasks&lt;/h1&gt;
+
 &lt;h2 id=&quot;task-1-learn-more-context-and-background-information-to-better-understand-the-meaning-behind-artworks&quot;&gt;Task 1: Learn more context and background information to better understand the meaning behind artworks&lt;/h2&gt;
 
-&lt;p&gt;From this page, users can start their search. Opening the Search mode for the first time prompts a tutorial, as shown in Screen 1.1.0, detailing how to look up an image using a QR code. In Screen 1.1.1, users can then choose between a text (Screens 1.2-1.3) or QR search (Screens 1.4-1.6). Both lead to a results page, in Screen 1.7, where the desired artwork can be chosen.&lt;/p&gt;
+&lt;p&gt;From the launch page, users can start their search. Opening the Search mode for the first time prompts a tutorial, as shown in Screen 1.1.0, detailing how to look up an image using a QR code. In Screen 1.1.1, users can then choose between a text (Screens 1.2-1.3) or QR search (Screens 1.4-1.6). Both lead to a results page, in Screen 1.7, where the desired artwork can be chosen.&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;../assets/images/paper_prototyping_search.jpg&quot; alt=&quot;Revised Search&quot; style=&quot;max-width: 100%;&quot; /&gt;
 &lt;figcaption&gt;Revised search&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Clicking on the artwork opens a nested art profile page with “About,” “Learn More,” and “Discussion” tabs the user can toggle between to support the first task of discovering more context about artworks. The “About” tab contains drop-down menus of further background information, including “Context,” “Inspiration,” “Genre,” and “Related Works” that can be collapsed and expanded, as shown in Screen 2.2-2.3.&lt;/p&gt;
+&lt;p&gt;Clicking on the artwork opens a nested art profile page with “About,” “Learn More,” and “Discussion” tabs the user can toggle between to support the first task of discovering more context about artworks. The “About” tab contains drop-down menus of further background information, including “Context,” “Inspiration,” “Genre,” and “Related Works” that can be collapsed and expanded. Shown below is a work flow that allows the user to explore information, and identify the inspiration section specifically.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;../assets/images/paper_prototyping_art_profile_1.jpg&quot; alt=&quot;Revised Art Profile&quot; style=&quot;max-width: 100%;&quot; /&gt;
-&lt;figcaption&gt;Art profile&lt;/figcaption&gt;
+&lt;img src=&quot;../assets/images/favorite_new.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;First screen on artwork profile: about page&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-about-inspo.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;User clicks on inspiration&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-learn-more.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;User clicks on Learn More&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h2 id=&quot;task-2-discuss-artwork-with-others-in-order-to-further-engage-with-the-pieces&quot;&gt;Task 2: Discuss artwork with others in order to further engage with the pieces&lt;/h2&gt;
@@ -103,7 +231,11 @@ Severity: 2&lt;/p&gt;
 &lt;figcaption&gt;User profile&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Clicking on the User Profile mode displays the initial Screen 3.1. The user profile displays a header containing a user profile picture, name, and bio. The body of the page consist of “Favorites” and “Threads” tabs that are toggled between. The “Favorites” tab displays favorited artworks. Clicking on any of these artworks, in Screen 3.2, brings the user to a nested art profile page, in Screen 3.3. The “Threads” tab (Screen 3.5) displays a list of discussions the user has participated in and highlights those with unread replies. Clicking on any of these comments, in Screen 3.6, opens a nested discussion page, as shown in Screen 3.7.&lt;/p&gt;</content><author><name>Art for All</name></author></entry><entry><title type="html">Usability Testing Check-In</title><link href="http://localhost:4000/hciproject/usability-testing-check-in/" rel="alternate" type="text/html" title="Usability Testing Check-In" /><published>2018-04-12T00:00:00-04:00</published><updated>2018-04-12T00:00:00-04:00</updated><id>http://localhost:4000/hciproject/usability-testing-check-in</id><content type="html" xml:base="http://localhost:4000/hciproject/usability-testing-check-in/">&lt;h1 id=&quot;heuristic-evaluation&quot;&gt;Heuristic Evaluation&lt;/h1&gt;
+&lt;p&gt;Clicking on the User Profile mode displays the initial Screen 3.1. The user profile displays a header containing a user profile picture, name, and bio. The body of the page consist of “Favorites” and “Threads” tabs. The “Favorites” tab displays favorited artworks. Clicking on any of these artworks, in Screen 3.2, brings the user to a nested art profile page, in Screen 3.3. The “Threads” tab (Screen 3.5) displays a list of discussions the user has participated in and highlights those with unread replies. Clicking on any of these comments, in Screen 3.6, opens a nested discussion page, as shown in Screen 3.7.&lt;/p&gt;
+
+&lt;h1 id=&quot;key-revisions&quot;&gt;Key Revisions&lt;/h1&gt;
+
+&lt;p&gt;One of the key revisions we made was the search functionality. First, we added in clear and large buttons to delineate the difference between the text search and the QR search. Then we added more explicit text so that the users could distinguish between the kinds of search and understand why they were different. Lastly, we added in a one-time tutorial of how the QR search functionality would work. All of these changes helped make the search function much clearer and improve the usability. Since searching for the artwork to pull up its artwork profile is a key functionality of our design, this was very important to us to change. Another key revision was changing how the “About” and “Learn More” pages were divided, and we found that after the first usability test, we needed to make this distinction more intuitive. We decided to modify what kinds of information would be located under each tab. We noticed in our second and third usability tests, this distinction was a lot more clear to our users, and they had no problem finding what they needed with this modification. Thus, we found this change to be incredibly important for our design and usability. Obviously, since finding background information is a key task we are trying to support, making it as easy as possible for the user to find the background information they are explicitly looking for is important to us. Lastly, adding the launch page to be the museum profile was a key revision for us, because it helps orient the user and helps her understand what the other tabs are for. We didn’t realize that the “Museum Profile” tab might be confusing to the user if they are not brought their first, so this was another key revision. It helps the user build a correct “mental model” of how the app works.&lt;/p&gt;</content><author><name>Art for All</name></author></entry><entry><title type="html">Usability Testing Check-In</title><link href="http://localhost:4000/hciproject/usability-testing-check-in/" rel="alternate" type="text/html" title="Usability Testing Check-In" /><published>2018-04-12T00:00:00-04:00</published><updated>2018-04-12T00:00:00-04:00</updated><id>http://localhost:4000/hciproject/usability-testing-check-in</id><content type="html" xml:base="http://localhost:4000/hciproject/usability-testing-check-in/">&lt;h1 id=&quot;heuristic-evaluation&quot;&gt;Heuristic Evaluation&lt;/h1&gt;
 
 &lt;p&gt;Our group received two heuristic evaluations from two different groups. The evaluation was carried out according to Nielsen’s heuristics sheet. The evaluators identified potential issues with our design, noted the heuristic violated, and assigned a severity score. For detailed images of the evaluator’s comments, refer to the &lt;a href=&quot;../heuristic-evaluations&quot;&gt;Heuristic Evaluations page&lt;/a&gt;&lt;/p&gt;
 
@@ -192,7 +324,7 @@ Severity: 2&lt;/p&gt;
 
 &lt;h1 id=&quot;usability-test-results&quot;&gt;Usability Test Results&lt;/h1&gt;
 
-&lt;p&gt;We conducted the first usability test with Hussain Bukhari, a senior at Williams, in a study room in Sawyer Library. We chose to start with Hussain because he is not an art history major but has taken four art history classes at Williams and has a deep appreciation for art, so he sits in the middle in terms of art education. We followed the test protocol outlined in Kathleen Gomoll’s “Some Techniques for Observing Users,” starting with a brief explanation of the app and the format and rules for the usability test. We explained each of our two main tasks in a scenario format for the user, and asked him to carry out those tasks while explaining his thought process and ask questions (even if we couldn’t answer them). Stephanie facilitated the usability test, and Joyce took notes. A major challenge we encountered while facilitating the usability test was “the user with an agenda,” as Carolyn Snyder describes it in “Paper Prototyping.” I believe there are several reasons for why our participant believed he was being asked his opinion on the app’s interface and to describe what he liked and disliked. For one, I think we can be more clear going forward with regards to establishing what the purpose of the usability test is. We may have underestimated the possibility of this happening. I also believe the fact that the user was easily able to understand the app’s functionality meant he ended up sort of looking for other things to talk about or comment on. We also did not write out the tasks this time, and I think going forward it will be helpful to print out the tasks so that the user can see very explicitly what his direction is.&lt;/p&gt;
+&lt;p&gt;We conducted the first usability test with a senior at Williams, in a study room in Sawyer Library. We chose to start with him because he is not an art history major but has taken four art history classes at Williams and has a deep appreciation for art, so he sits in the middle in terms of art education. We followed the test protocol outlined in Kathleen Gomoll’s “Some Techniques for Observing Users,” starting with a brief explanation of the app and the format and rules for the usability test. We explained each of our two main tasks in a scenario format for the user, and asked him to carry out those tasks while explaining his thought process and ask questions (even if we couldn’t answer them). Stephanie facilitated the usability test, and Joyce took notes. A major challenge we encountered while facilitating the usability test was “the user with an agenda,” as Carolyn Snyder describes it in “Paper Prototyping.” I believe there are several reasons for why our participant believed he was being asked his opinion on the app’s interface and to describe what he liked and disliked. For one, I think we can be more clear going forward with regards to establishing what the purpose of the usability test is. We may have underestimated the possibility of this happening. I also believe the fact that the user was easily able to understand the app’s functionality meant he ended up sort of looking for other things to talk about or comment on. We also did not write out the tasks this time, and I think going forward it will be helpful to print out the tasks so that the user can see very explicitly what his direction is.&lt;/p&gt;
 
 &lt;h2 id=&quot;critical-incidents&quot;&gt;Critical Incidents&lt;/h2&gt;
 
@@ -211,7 +343,17 @@ Severity: 2&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Severity Level:&lt;/strong&gt; 3 (This is one of the main tasks our app is trying to support).&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Revision:&lt;/strong&gt; Modifying the “Learn More” section to be a series of very in-depth information.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Revision:&lt;/strong&gt; Modifying the “Learn More” section to be a series of very in-depth information and having the “About” page contain information that used to be in the “Learn More” section.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-about.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;New About Page&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-learn-more.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;New Learn More Page&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h3 id=&quot;qr-code-scanner&quot;&gt;QR Code Scanner&lt;/h3&gt;
 
@@ -225,6 +367,11 @@ Severity: 2&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Severity Level:&lt;/strong&gt; 1&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Revision:&lt;/strong&gt; Simply adding a box/grid layout to make it easier for the user.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../assets/images/pp-cam-2.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
+&lt;figcaption&gt;Updated QR code screen&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h3 id=&quot;discussion&quot;&gt;Discussion&lt;/h3&gt;
 
@@ -517,37 +664,6 @@ The artist tab includes what the artist would like his/her audience to know abou
 &lt;h3 id=&quot;8-artist-communicating-with-people-interested-in-her-work---moderate-task-new&quot;&gt;8. &lt;em&gt;Artist communicating with people interested in her work&lt;/em&gt; - Moderate task (New)&lt;/h3&gt;
 
 &lt;p&gt;Jordan Mitchell is a rising modern artist with a number of nationwide exhibitions. Her artwork is revolutionary and can be hard to understand for both art novices and experts. She often attends museum events, explains her work, and interacts with people interested in her work. However, she is unable to attend as many events as she would like to. She communicates with both novice and experienced museum goers. She is able to explain her work, and respond to any of their questions. This helps breakdown the barriers preventing people to understand her revolutionary artwork. It is also a way for Jordan to get real time feedback on how people see her artworks.&lt;/p&gt;
-
-&lt;h2 id=&quot;citations&quot;&gt;Citations&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.loc.gov/rr/print/list/128_migm.html&quot;&gt;Dorothea Lange’s “Migrant Mother” Photographs in the Farm Security Administration Collection: An Overview&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Art for All</name></author></entry><entry><title type="html">Task Review</title><link href="http://localhost:4000/hciproject/task-review/" rel="alternate" type="text/html" title="Task Review" /><published>2018-03-04T00:00:00-05:00</published><updated>2018-03-04T00:00:00-05:00</updated><id>http://localhost:4000/hciproject/task-review</id><content type="html" xml:base="http://localhost:4000/hciproject/task-review/">&lt;h2 id=&quot;existing-tasks&quot;&gt;Existing Tasks:&lt;/h2&gt;
-
-&lt;h3 id=&quot;reading-placards-and-finding-background-information-about-artworks---hard-task&quot;&gt;Reading placards and finding background information about artworks - Hard task&lt;/h3&gt;
-
-&lt;p&gt;Elliot is a junior majoring in history at Amherst. He likes going to museums to learn about history from a visual perspective, and he decides to attend a local art museum on the weekend. He sees an 18th century piece he really likes and reads the placard, but it names only the artist, date, and title of the work, and there is only explanatory wall text for the featured exhibits. He appreciates the art for what it is but feels he is missing part of the puzzle by not knowing anything about the connection between the artist and the work, and especially the history behind it. He writes down the name of the artwork for later, and continues on. When he returns from the museum, he googles the title of the piece hoping to learn more about it. Unfortunately, the artwork he liked so much was made by a lesser-known artist, so there isn’t much on the Internet about it. He does find a few scholarly articles about the artist, but they’re filled with confusing language and art terminology that he doesn’t understand.&lt;/p&gt;
-
-&lt;h3 id=&quot;discussing-art-with-others-in-person---moderate-task&quot;&gt;Discussing art with others in person - Moderate task&lt;/h3&gt;
-
-&lt;p&gt;Anna is a frequent attender of museums, and likes to explore new kinds of art. She visits a contemporary art exhibit with a group of friends in a new city. As they’re walking around, a passer-by suggests they go up close to look at the exhibit featuring mirrors, because it provides a different perspective. As they take turns looking at themselves in the reflections, they share thoughts about the experience. Her friend Trevor comments that seeing his reflection in a kaleidoscope way makes him feel uneasy; he’s not used to looking at himself so closely and from so many different angles at the same time. Anna notes that looking at her face within an art installation forces her to view herself in new ways. She feels like she’s looking at herself from an outsider’s perspective. Her friend Jenny then asks a museum staffer how the installation was created, and they have a discussion about where the installation is from and how it was installed.&lt;/p&gt;
-
-&lt;h3 id=&quot;appreciating-and-remembering-art-after-a-museum-visit---easy-task&quot;&gt;Appreciating and remembering art after a museum visit - Easy task&lt;/h3&gt;
-
-&lt;p&gt;Carlos loves visiting museums, and he finds that certain artworks spark something in him that he just can’t describe. For these pieces, he tries to write them down somewhere so he can remember them for later–sometimes in a journal, sometimes in his “Notes” app on his phone. If the piece is part of a permanent exhibit, he jots that down too so he can visit it again the next time he comes to that museum. He also sometimes buys postcards or artist booklets at the museum so he can appreciate the art and look back on it even after he’s left the museum, but those can get pretty expensive.&lt;/p&gt;
-
-&lt;h2 id=&quot;new-tasks&quot;&gt;New Tasks:&lt;/h2&gt;
-
-&lt;h3 id=&quot;understanding-more-context-about-art-pieces---hard-task&quot;&gt;Understanding more context about art pieces - Hard task&lt;/h3&gt;
-
-&lt;p&gt;Logan is visiting New York and decides to visit the famous MoMA, but he doesn’t know much about art and has no formal art training. He’s looking at the famous “Migrant Mother” photograph, and the placard notes that it was taken in 1963 in Nipomo, California by Dorothea Lange, but he gets no other information. He can feel the desperation in the image, but wants to learn more. Who is the woman in the photograph and why does she look like she’s suffering? He navigates to the photograph’s profile on the app and reads some basic information about the artwork. He learns that Lange was spending a month photographing migratory farm labor when she took this shot. He reads Lange’s account of her experience, and learns that the mother in the photograph “said that they had been living on frozen vegetables from the surrounding fields, and birds that the children killed. She had just sold the tires from her car to buy food.”&lt;sup&gt;[1]&lt;/sup&gt; Logan feels like he can now better understand the emotional energy of the photograph.&lt;/p&gt;
-
-&lt;h3 id=&quot;discussing-art-with-museum-experts-and-novices---moderate-task&quot;&gt;Discussing art with museum experts and novices - Moderate task&lt;/h3&gt;
-
-&lt;p&gt;Caroline is a flight attendant for a major airline company. Every now and then she finds herself stuck in a major city with nothing to do. To pass the time before her next assignment, she often visits museums. She does not have any formal background in art, and would rather spend her time at home with her children than reading books on art. Because she’s usually away for work in random cities, she doesn’t always have friends to go to museums with, but she still wants to discuss the art with “regular” people who aren’t scholars or curators. At her next stop in Toledo, she visits an art museum, and finds a really interesting abstract art piece that she doesn’t quite understand. She doesn’t really want to spend time reading about background information; she finds that process kind of boring. Instead, she navigates to the artwork’s profile on the app, and reads about other people’s experiences with the piece. She is fascinated with how others describe their experiences with art, and the language they use to convey their emotions. She is surprised to find that people took on very varied interpretations of the art, and slowly begins to develop the confidence to decide for herself what the artwork means to her. She even adds her own comment, and feels pride in participating in this discussion and adding her own take.&lt;/p&gt;
-
-&lt;h3 id=&quot;favoriting-artworks---easy-task&quot;&gt;Favoriting artworks - Easy task&lt;/h3&gt;
-
-&lt;p&gt;Chelsea is an avid art-lover, and loves visiting art museums in her spare time. She visits a new museum that just opened in her city, and stumbles upon a painting that she is immediately entranced by. She wants to remember this artwork somehow, so that she can look back on it later and remember how it made her feel. She uses the app to navigate to the painting’s profile and “favorite” it. That night at home, she thinks more about the painting and other artworks that have impacted her. She pulls up the app to see all of the artworks she’s favorited in the past. She goes through some of them, and nostalgically remembers how she felt at each time, and even thinks about the context in her life when each of these artworks was particularly meaningful to her. As she scrolls through, she notices that most of the artworks she’s favorited have been paintings and abstract art, and feels like she’s learned something about her own personal style of expression through this.&lt;/p&gt;
 
 &lt;h2 id=&quot;citations&quot;&gt;Citations&lt;/h2&gt;
 &lt;ol&gt;
