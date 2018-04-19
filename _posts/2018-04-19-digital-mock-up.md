@@ -11,7 +11,7 @@ excerpt: ""
 </figure>
 
 <figure>
-<img src="../assets/images/mockup-launch.jpg" alt="cam" style=""/>
+<img src="../assets/images/mockup-launch.jpg" alt="cam" style="width: 200px;"/>
 <figcaption>Launch screen that provides information about the museum and the museum map to navigate exhibits.</figcaption>
 </figure>
 
