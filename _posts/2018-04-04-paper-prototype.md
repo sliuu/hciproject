@@ -1,5 +1,5 @@
 ---
-title: Paper Prototyping
+title: Initial Paper Prototype
 excerpt: ""
 ---
 
@@ -8,7 +8,7 @@ Art for All is a mobile application that allows users to learn more about the ar
 
 ## Tasks
  - Learn more context and background information to better understand the meaning behind artworks
- - Discuss artwork with others in order further engage with the pieces
+ - Discuss artwork with others in order to further engage with the pieces
 
 ## Overview of paper prototyping
 
