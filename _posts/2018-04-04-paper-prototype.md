@@ -13,7 +13,7 @@ Art for All is a mobile application that allows users to learn more about the ar
 ## Overview of paper prototyping
 
 <figure>
-<img src="../assets/images/paper_prototyping_overview.jpg" alt="Overview" style="max-width: 100%;"/>
+<a href="../assets/images/paper_prototyping_overview.jpg"><img src="../assets/images/paper_prototyping_overview.jpg"></a>
 <figcaption>Components of paper prototype</figcaption>
 </figure>
 
