@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/hciproject/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hciproject/" rel="alternate" type="text/html" /><updated>2018-04-19T01:08:44-04:00</updated><id>http://localhost:4000/hciproject/</id><title type="html">CSCI376 Project: Art for All</title><subtitle>Collaborative platform for artistic engagement</subtitle><author><name>Art for All</name></author><entry><title type="html">Digital Mock-Up</title><link href="http://localhost:4000/hciproject/digital-mock-up/" rel="alternate" type="text/html" title="Digital Mock-Up" /><published>2018-04-19T00:00:00-04:00</published><updated>2018-04-19T00:00:00-04:00</updated><id>http://localhost:4000/hciproject/digital-mock-up</id><content type="html" xml:base="http://localhost:4000/hciproject/digital-mock-up/">&lt;h2 id=&quot;overview-of-digital-mock-up&quot;&gt;Overview of Digital Mock-Up&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/hciproject/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/hciproject/" rel="alternate" type="text/html" /><updated>2018-04-19T01:14:03-04:00</updated><id>http://localhost:4000/hciproject/</id><title type="html">CSCI376 Project: Art for All</title><subtitle>Collaborative platform for artistic engagement</subtitle><author><name>Art for All</name></author><entry><title type="html">Digital Mock-Up</title><link href="http://localhost:4000/hciproject/digital-mock-up/" rel="alternate" type="text/html" title="Digital Mock-Up" /><published>2018-04-19T00:00:00-04:00</published><updated>2018-04-19T00:00:00-04:00</updated><id>http://localhost:4000/hciproject/digital-mock-up</id><content type="html" xml:base="http://localhost:4000/hciproject/digital-mock-up/">&lt;h2 id=&quot;overview-of-digital-mock-up&quot;&gt;Overview of Digital Mock-Up&lt;/h2&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;../assets/images/mockup-overview.jpg&quot; alt=&quot;cam&quot; style=&quot;max-width: 100%;&quot; /&gt;
@@ -6,7 +6,7 @@
 &lt;/figure&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;../assets/images/mockup-launch.jpg&quot; alt=&quot;cam&quot; style=&quot;&quot; /&gt;
+&lt;img src=&quot;../assets/images/mockup-launch.jpg&quot; alt=&quot;cam&quot; style=&quot;width: 200px;&quot; /&gt;
 &lt;figcaption&gt;Launch screen that provides information about the museum and the museum map to navigate exhibits.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
