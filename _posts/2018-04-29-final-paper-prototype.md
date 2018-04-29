@@ -1,6 +1,6 @@
 ---
 title: Final Paper Prototype
-excerpt: “”
+excerpt: ""
 ---
 
 ## Overview of Final Paper Prototype
