@@ -122,7 +122,7 @@ Revision:  Our solution was to change the favorite button into a more visible bu
 
 ## 2. QR Code Search Tutorial
 ### Before:
-The user did not understand the capability to scan QR codes. 
+Both participants two and three did not understand the capability to scan QR codes, which was another negative incident. However, once this feature of being able to scan the QR codes displayed on artwork placards was explained to them, both preferred to use this over the text search.
 <figure>
 <img src="../assets/images/tutorial_old.jpg" alt="Old Tutorial" style="max-width: 50%;"/>
 <figcaption>Old initial search screen</figcaption>
@@ -172,4 +172,8 @@ Revision: A launch screen was added to be an initial museum profile screen. It c
 <img src="../assets/images/ppf_homepage.jpg" alt="homepage" style="max-width: 50%;"/>
 <figcaption>Launch screen</figcaption>
 </figure>
+
+## Summary & Key Revisions
+
+One of the key revisions we made was the search functionality. First, we added in clear and large buttons to delineate the difference between the text search and the QR search. Then we added more explicit text so that the users could distinguish between the kinds of search and understand why they were different. Lastly, we added in a one-time tutorial of how the QR search functionality would work. All of these changes helped make the search function much clearer and improve the usability. Since searching for the artwork to pull up its artwork profile is a key functionality of our design, this was very important to us to change. Another key revision was changing how the "About" and "Learn More" pages were divided, and we found that after the first usability test, we needed to make this distinction more intuitive. We decided to modify what kinds of information would be located under each tab. We noticed in our second and third usability tests, this distinction was a lot more clear to our users, and they had no problem finding what they needed with this modification. Thus, we found this change to be incredibly important for our design and usability. Obviously, since finding background information is a key task we are trying to support, making it as easy as possible for the user to find the background information they are explicitly looking for is important to us. Lastly, adding the launch page to be the museum profile was a key revision for us, because it helps orient the user and helps her understand what the other tabs are for. We didn't realize that the "Museum Profile" tab might be confusing to the user if they are not brought their first, so this was another key revision. It helps the user build a correct "mental model" of how the app works.
 
