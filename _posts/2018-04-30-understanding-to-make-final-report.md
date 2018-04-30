@@ -1,6 +1,7 @@
 ---
 title: Understanding To Make Final Report
 excerpt: ""
+layout: single
 ---
 
 ## Project
