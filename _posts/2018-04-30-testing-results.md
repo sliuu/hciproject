@@ -10,14 +10,14 @@ The heuristic evaluations demonstrated the following major problems and conseque
 ### Before:
 The functionality of the camera icon of the Search page was unclear, as users didn’t know that the camera was meant to scan QR codes.
 <figure>
-<img src="../assets/images/paper-prototype-search.jpg" alt="cam" style="max-width: 100%;"/>
+<img src="../assets/images/paper-prototype-search.jpg" alt="cam" style="max-width: 50%;"/>
 <figcaption>Search menu</figcaption>
 </figure>
 
 ### After:  
 To clarify the two search options and provide more context on functionality, we labelled and separated the two components in a large button menu.
 <figure>
-<img src="../assets/images/pp-cam-1.jpg" alt="cam" style="max-width: 100%;"/>
+<img src="../assets/images/pp-cam-1.jpg" alt="cam" style="max-width: 50%;"/>
 <figcaption>Two separated components with clear labeling</figcaption>
 </figure>
 
@@ -25,14 +25,14 @@ To clarify the two search options and provide more context on functionality, we 
 ### Before:
 After navigating to inspiration, it was unclear how to get back to the main About section.
 <figure>
-<img src="../assets/images/paper-prototype-inspo.jpg" alt="cam" style="max-width: 100%;"/>
+<img src="../assets/images/paper-prototype-inspo.jpg" alt="cam" style="max-width: 50%;"/>
 <figcaption>Inspiration section of œôòüLearn moreœôòý </figcaption>
 </figure>
 
 ### After:
 Revision: A back button was added.
 <figure>
-<img src="../assets/images/pp-about-inspo.jpg" alt="cam" style="max-width: 100%;"/>
+<img src="../assets/images/pp-about-inspo.jpg" alt="cam" style="max-width: 50%;"/>
 <figcaption>Back button added</figcaption>
 </figure>
 
@@ -40,22 +40,22 @@ Revision: A back button was added.
 ### Before: 
 Always having the bottom toolbar felt redundant to evaluators in certain contexts. This added clutter and made the design difficult to navigate. 
 <figure>
-<img src="../assets/images/paper-prototype-cam.jpg" alt="About" style="max-width: 100%;"/>
+<img src="../assets/images/paper-prototype-cam.jpg" alt="About" style="max-width: 50%;"/>
 <figcaption>Camera screen</figcaption>
 </figure>
 <figure>
-<img src="../assets/images/paper-prototype-discuss.jpg" alt="Learn More" style="max-width: 100%;"/>
+<img src="../assets/images/paper-prototype-discuss.jpg" alt="Learn More" style="max-width: 50%;"/>
 <figcaption>Discussion screen</figcaption>
 </figure>
 
 ### After:
 Revision: The design should only provide information that is needed and is helpful to the user. We decided to drop the bottom bar wherever it was easy for the user to still go back one page and find the bottom bar easily should they need it.
 <figure>
-<img src="../assets/images/pp-cam-2.jpg" alt="About" style="max-width: 100%;"/>
+<img src="../assets/images/pp-cam-2.jpg" alt="About" style="max-width: 50%;"/>
 <figcaption>Camera screen removes toolbar</figcaption>
 </figure>
 <figure>
-<img src="../assets/images/pp-discuss.jpg" alt="Learn More" style="max-width: 100%;"/>
+<img src="../assets/images/pp-discuss.jpg" alt="Learn More" style="max-width: 50%;"/>
 <figcaption>Discussion screen removes toolbar</figcaption>
 </figure>
 
@@ -67,23 +67,23 @@ We encountered the following critical incidents from our usability tests, broken
 ### Before:  
 While trying to navigate to a page that contained the inspiration for an artwork, we realized that it wasn’t clear to a general user whether the inspiration information should be under “about” or “learn more.” This led us to believe we may want to put more information about the inspiration and context under the “about” tab, and leave very in-depth understanding to the “learn more” section (e.g. further information about the artist and the history of the movement).
 <figure>
-<img src="../assets/images/paper-prototype-about.jpg" alt="About" style="max-width: 100%;"/>
+<img src="../assets/images/paper-prototype-about.jpg" alt="About" style="max-width: 50%;"/>
 <figcaption>About screen under artwork profile</figcaption>
 </figure>
 <figure>
-<img src="../assets/images/paper-prototype-learnmore.jpg" alt="Learn More" style="max-width: 100%;"/>
+<img src="../assets/images/paper-prototype-learnmore.jpg" alt="Learn More" style="max-width: 50%;"/>
 <figcaption>Learn More screen under artwork profile</figcaption>
 </figure>
 
 ### After:
 Revision: The “About” page was modified to contain information that used to be in the “Learn More” section, and the “Learn More” section was modified to be a series of very in-depth information.
 <figure>
-<img src="../assets/images/pp-about.jpg" alt="cam" style="max-width: 100%;"/>
+<img src="../assets/images/pp-about.jpg" alt="cam" style="max-width: 50%;"/>
 <figcaption>New About Page</figcaption>
 </figure>
 
 <figure>
-<img src="../assets/images/pp-learn-more.jpg" alt="cam" style="max-width: 100%;\
+<img src="../assets/images/pp-learn-more.jpg" alt="cam" style="max-width: 50%;\
 "/>
 <figcaption>New Learn More Page</figcaption>
 </figure>
@@ -92,7 +92,7 @@ Revision: The “About” page was modified to contain information that used to 
 ### Before:
 While trying to “fake” taking a scan of the QR code, our user noted that he didn’t really know where to put the QR code, and that it would be nice to have a box on the camera screen so the user knows exactly where to put it.
 <figure>
-<img src="../assets/images/paper-prototype-qrscan.jpg" alt="QR Scanner" style="max-width: 100%;"/>
+<img src="../assets/images/paper-prototype-qrscan.jpg" alt="QR Scanner" style="max-width: 50%;"/>
 <figcaption>QR Scanner</figcaption>
 </figure>
 
