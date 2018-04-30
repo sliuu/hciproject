@@ -104,6 +104,15 @@ Revision: Adding a box/grid layout to indicate where the QR code should be captu
 <figcaption>QR code screen indicates placementr</figcaption>
 </figure>
 
+## 3. Discussion
+<figure>
+<img src="../assets/images/paper-prototype-discussion-1.jpg" alt="Discussion" style="max-width: 100%;"/>
+<figcaption>Discussion</figcaption>
+</figure>
+
+### Incident:
+This was a positive incident; our user was quickly and easily able to locate the “discussion” section and understand the gist of the interface and how it would operate. This is likely because discussions like this exist in similar formats on other platforms. 
+
 ## Results from Test 2
 ## 1. Favoriting artworks
 ### Before:
