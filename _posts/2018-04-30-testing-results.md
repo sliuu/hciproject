@@ -8,7 +8,8 @@ The heuristic evaluations demonstrated the following major problems and conseque
 
 ## 1. Unclear initial search page
 ### Before:
-The functionality of the camera icon of the Search page was unclear, as users didn’t know that the camera was meant to scan QR codes.
+We received feedback that a primary function of our application, which allows the user to scan a QR code using the mobile phone’s camera, was not clear. The camera icon was too close to the search bar, and the camera did not provide any indication that it would be used to scan QR codes. This issue violates the visibility of system heuristic, and received a severity rating of 3.
+
 <figure>
 <img src="../assets/images/paper-prototype-search.jpg" alt="cam" style="max-width: 50%;"/>
 <figcaption>Search menu</figcaption>
@@ -23,7 +24,7 @@ To clarify the two search options and provide more context on functionality, we 
 
 ## 2. Missing back button(s)
 ### Before:
-After navigating to inspiration, it was unclear how to get back to the main About section.
+Our evaluators pointed out that after navigating to inspiration, it was unclear how to get back to the main about section. They felt stuck. This violated the User Control and Freedom heuristic, and received a severity rating of 1.
 <figure>
 <img src="../assets/images/paper-prototype-inspo.jpg" alt="cam" style="max-width: 50%;"/>
 <figcaption>Inspiration section of "Learn more" </figcaption>
@@ -38,7 +39,7 @@ Revision: A back button was added.
 
 ## 3. Unnecessary screen components
 ### Before: 
-Always having the bottom toolbar felt redundant to evaluators in certain contexts. This added clutter and made the design difficult to navigate. 
+Always having the bottom toolbar felt redundant to evaluators in certain contexts. This added clutter and made the design difficult to navigate. This violated the Aesthetics and Minimalist Design heuristic, and received a severity rating of 2.
 <figure>
 <img src="../assets/images/paper-prototype-cam.jpg" alt="About" style="max-width: 50%;"/>
 <figcaption>Camera screen</figcaption>
