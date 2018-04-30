@@ -98,6 +98,10 @@ While trying to “fake” taking a scan of the QR code, our user noted that he 
 
 ### After:
 Revision: Adding a box/grid layout to indicate where the QR code should be captured.
+<figure>
+<img src="../assets/images/pp-cam-2.jpg" alt="About" style="max-width: 50%;"/>
+<figcaption>QR code screen indicates placementr</figcaption>
+</figure>
 
 ## Results from Test 2
 ## 1. Favoriting artworks
@@ -162,7 +166,7 @@ Revision: Words were changed to better suit the user’s vocabulary and increase
 Upon opening the application and being shown the initial screen for the “Search mode,” the user went to the “Museum Profile” for the purposes of initially exploring the application. This incident was negative, as the order of interaction was not intuitive to our test users. 
 
 ### After:
-Revision: The launch screen was modified to an initial museum profile screen. It places the app within the user’s settings by communicating that the app is museum-specific and clearly defining what artwork is covered. The museum profile orients the user toward accomplishing the task of searching art pieces.
+Revision: The launch screen was modified to be an initial museum profile screen. It communicates that the app is museum-specific and clearly defines what artwork is covered. The museum profile orients the user toward accomplishing the task of searching for individual art pieces.
 <figure>
 <img src="../assets/images/ppf_homepage.jpg" alt="homepage" style="max-width: 50%;"/>
 <figcaption>Launch screen</figcaption>
