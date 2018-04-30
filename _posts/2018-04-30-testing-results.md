@@ -26,7 +26,7 @@ To clarify the two search options and provide more context on functionality, we 
 After navigating to inspiration, it was unclear how to get back to the main About section.
 <figure>
 <img src="../assets/images/paper-prototype-inspo.jpg" alt="cam" style="max-width: 50%;"/>
-<figcaption>Inspiration section of œôòüLearn moreœôòý </figcaption>
+<figcaption>Inspiration section of "Learn more" </figcaption>
 </figure>
 
 ### After:
