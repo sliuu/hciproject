@@ -54,13 +54,13 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/hciproject/Storyboards/",
         "teaser":null},{
-        "title": "Final Report",
+        "title": "Looking to Understand Final Report",
         "excerpt":"ProjectArt for All: An interactive and educational platform for public engagement at art museumsTeam Members (all generalists):Cliff Makanda, Stephanie Liu, Joyce WangProblem and Solution Overview:Art museums have long been a primary resource for learning about and experiencing art. Unfortunately, art can often feel intimidatingly inaccessible for the general public. For...","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/hciproject/Final-Report/",
+        "url": "http://localhost:4000/hciproject/looking-to-understand-final-report/",
         "teaser":null},{
-        "title": "Paper Prototyping",
-        "excerpt":"DesignArt for All is a mobile application that allows users to learn more about the art pieces users see in museumsTasks Learn more context and background information to better understand the meaning behind artworks Discuss artwork with others in order further engage with the piecesOverview of paper prototypingComponents of paper...","categories": [],
+        "title": "Initial Paper Prototype",
+        "excerpt":"DesignArt for All is a mobile application that allows users to learn more about the art pieces users see in museumsTasks Learn more context and background information to better understand the meaning behind artworks Discuss artwork with others in order to further engage with the piecesOverview of Initial Paper PrototypeComponents...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/hciproject/paper-prototype/",
         "teaser":null},{
@@ -69,18 +69,28 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/hciproject/heuristic-evaluations/",
         "teaser":null},{
-        "title": "Usability Testing Check-In",
-        "excerpt":"Heuristic EvaluationOur group received two heuristic evaluations from two different groups. The evaluation was carried out according to Nielsen’s heuristics sheet. The evaluators identified potential issues with our design, noted the heuristic violated, and assigned a severity score. For detailed images of the evaluator’s comments, refer to the Heuristic Evaluations...","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/hciproject/usability-testing-check-in/",
-        "teaser":null},{
-        "title": "Usability Testing Review",
-        "excerpt":"Usability Test OverviewsUsability Test #1We conducted the first usability test with a senior at Williams, in a study room in Sawyer Library. We chose to start with him because he is not an art history major but has taken four art history classes at Williams and has a deep appreciation...","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/hciproject/usability-testing-review/",
-        "teaser":null},{
         "title": "Digital Mock-Up",
-        "excerpt":"Overview of Digital Mock-UpDigital Mock-UpLaunch screen that provides information about the museum and the museum map to navigate exhibits.Task 1: Learning Background Information about ArtworksFrom the launch page, the user can choose the \"Search\" tab in the bottom navigation bar. This pulls up the choice between a QR search and...","categories": [],
+        "excerpt":"Overview of Digital Mock-UpFinal Digital Mock-UpTask 1: Learning Background Information about ArtworksFrom the launch page, the user can choose the \"Search\" tab in the bottom navigation bar. This pulls up the choice between a QR search and a Text Search. If the user chooses the QR search function, then the...","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/hciproject/digital-mock-up/",
+        "url": "http://localhost:4000/hciproject/final-digital-mock-up/",
+        "teaser":null},{
+        "title": "Final Paper Prototype",
+        "excerpt":"Overview of Final Paper PrototypeFinal Paper PrototypeOur final paper prototype integrates the changes we made from the feedback we received in our heuristic evaluations and usability tests. We added the “Favorite” text to the button users use to favorite pieces because some users found the simple heart image ambiguous. We...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/hciproject/final-paper-prototype/",
+        "teaser":null},{
+        "title": "Testing Process",
+        "excerpt":"Method Overview and RefinementsWe conducted two types of tests: heuristics evaluations and usability tests.The heuristic evaluations were carried out according to Nielsen’s heuristics sheet, and we had two different groups evaluate our design. The evaluators identified potential issues with our design, noted the heuristics violated, and assigned a severity score...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/hciproject/testing-process/",
+        "teaser":null},{
+        "title": "Testing Results and Revisions",
+        "excerpt":"Heuristic EvaluationsThe heuristic evaluations demonstrated the following major problems and consequent revisions:1. Unclear initial search pageBefore:We received feedback that a primary function of our application, which allows the user to scan a QR code using the mobile phone’s camera, was not clear. The camera icon was too close to the...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/hciproject/testing-results/",
+        "teaser":null},{
+        "title": "Understanding To Make Final Report",
+        "excerpt":"ProjectArt for All: An interactive and educational platform for public engagement at art museumsTeam MembersJoyce Wang, Stephanie Liu, and Cliff Makanda. We have decided to all serve as generalists on the team, to get a chance to try out all of the roles and act as equal team members.Problem and...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/hciproject/understanding-to-make-final-report/",
         "teaser":null}]

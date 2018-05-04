@@ -1,0 +1,427 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.10.0 by Michael Rose
+  Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Usability Testing Check-In - CSCI376 Project: Art for All</title>
+<meta name="description" content="Collaborative platform for artistic engagement">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="CSCI376 Project: Art for All">
+<meta property="og:title" content="Usability Testing Check-In">
+<meta property="og:url" content="http://localhost:4000/hciproject/archives/2018-04-12-usability-testing-check-in/">
+
+
+  <meta property="og:description" content="Collaborative platform for artistic engagement">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/hciproject/archives/2018-04-12-usability-testing-check-in/">
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "Art for All",
+      "url": "http://localhost:4000/hciproject",
+      "sameAs": null
+    }
+  </script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="http://localhost:4000/hciproject/feed.xml" type="application/atom+xml" rel="alternate" title="CSCI376 Project: Art for All Feed">
+
+<link rel="shortcut icon" href="http://localhost:4000/hciproject/favicon.ico">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/hciproject/assets/css/main.css">
+
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--single">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="http://localhost:4000/hciproject/">CSCI376 Project: Art for All</a>
+        <ul class="visible-links">
+          
+            
+            <li class="masthead__menu-item">
+              <a href="http://stephanieliu.me/artforall/" >Project Page</a>
+            </li>
+          
+        </ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Usability Testing Check-In">
+    <meta itemprop="description" content="">
+    
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Usability Testing Check-In
+</h1>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <h1 id="heuristic-evaluation">Heuristic Evaluation</h1>
+
+<p>Our group received two heuristic evaluations from two different groups. The evaluation was carried out according to Nielsen’s heuristics sheet. The evaluators identified potential issues with our design, noted the heuristic violated, and assigned a severity score. For detailed images of the evaluator’s comments, refer to the <a href="../heuristic-evaluations">Heuristic Evaluations page</a></p>
+
+<h2 id="list-of-issues-and-modifications">List of issues and modifications:</h2>
+
+<h3 id="1-functionality-of-camera-icon-is-unclear">1. Functionality of Camera Icon is Unclear</h3>
+
+<figure>
+<img src="../assets/images/paper-prototype-search.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>Search menu</figcaption>
+</figure>
+
+<p>We received feedback that a primary function of our application, which allows the user to scan a QR code using the mobile phone’s camera, was not clear. The camera icon was too close to the search bar, and the camera did not provide any indication that it would be used to scan QR codes.</p>
+
+<p><strong>Heuristic Violated:</strong> This issue violates the visibility of system heuristic. Providing more clarity on the different functions of the search bar and the camera icon, through labeling and separation of the two components, will provide better context for the user.</p>
+
+<p><strong>Severity Rating:</strong> 3</p>
+
+<p><strong>Revision:</strong></p>
+
+<figure>
+<img src="../assets/images/pp-cam-1.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>Two separated components with clear labeling</figcaption>
+</figure>
+
+<h3 id="2-missing-back-buttons">2. Missing Back Button(s)</h3>
+
+<figure>
+<img src="../assets/images/paper-prototype-inspo.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>Inspiration section of “Learn more” </figcaption>
+</figure>
+
+<p>Our evaluators pointed out that after navigating to inspiration, it was unclear how to get back to the main about section. They felt stuck.</p>
+
+<p><strong>Heuristic Violated:</strong>  User Control and freedom. Our design did not have a clearly market “emergency exit” there.  We added in a back button.</p>
+
+<p><strong>Severity Rating:</strong> 1</p>
+
+<p><strong>Revisions:</strong></p>
+
+<figure>
+<img src="../assets/images/pp-about-inspo.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>Back button added</figcaption>
+</figure>
+
+<h3 id="3--redundancy">3.  Redundancy</h3>
+
+<figure>
+<img src="../assets/images/paper-prototype-cam.jpg" alt="About" style="max-width: 100%;" />
+<figcaption>Camera screen</figcaption>
+</figure>
+<figure>
+<img src="../assets/images/paper-prototype-discuss.jpg" alt="Learn More" style="max-width: 100%;" />
+<figcaption>Discussion screen</figcaption>
+</figure>
+
+<p>Some of our screen components, like the bottom toolbar, felt redundant to our evaluators in certain contexts. This added clutter and made the design difficult to navigate.</p>
+
+<p><strong>Heuristic Violated:</strong> Aesthetics and minimalist design. The design should only provide information that is needed and is helpful to the user. We decided to drop the bottom bar wherever it was easy for the user to still go back one page and find the bottom bar easily should they need it.</p>
+
+<p><strong>Severity Rating:</strong> 2</p>
+
+<p><strong>Revisions:</strong></p>
+
+<figure>
+<img src="../assets/images/pp-cam-2.jpg" alt="About" style="max-width: 100%;" />
+<figcaption>Camera screen removes toolbar</figcaption>
+</figure>
+<figure>
+<img src="../assets/images/pp-discuss.jpg" alt="Learn More" style="max-width: 100%;" />
+<figcaption>Discussion screen removes toolbar</figcaption>
+</figure>
+
+<h3 id="4-lack-of-feedback">4. Lack of Feedback</h3>
+
+<figure>
+<img src="../assets/images/paper-prototype-faves.jpg" alt="Learn More" style="max-width: 100%;" />
+<figcaption>Favorites section</figcaption>
+</figure>
+
+<p>One of the evaluators liked the feature that allowed users to favorite paintings. However, it was not clear to them how and where the favored artworks were stored within the application.</p>
+
+<p><strong>Heuristic Violated:</strong> Match between system and real world. While our application stored the artworks favorited by the user, it did not provide enough feedback to the user. People expect an action to have a visible reaction. However, we have decided to not make the user profile section our focus right now.</p>
+
+<p><strong>Severity Rank:</strong> 1</p>
+
+<h1 id="usability-test-results">Usability Test Results</h1>
+
+<p>We conducted the first usability test with a senior at Williams, in a study room in Sawyer Library. We chose to start with him because he is not an art history major but has taken four art history classes at Williams and has a deep appreciation for art, so he sits in the middle in terms of art education. We followed the test protocol outlined in Kathleen Gomoll’s “Some Techniques for Observing Users,” starting with a brief explanation of the app and the format and rules for the usability test. We explained each of our two main tasks in a scenario format for the user, and asked him to carry out those tasks while explaining his thought process and ask questions (even if we couldn’t answer them). Stephanie facilitated the usability test, and Joyce took notes. A major challenge we encountered while facilitating the usability test was “the user with an agenda,” as Carolyn Snyder describes it in “Paper Prototyping.” I believe there are several reasons for why our participant believed he was being asked his opinion on the app’s interface and to describe what he liked and disliked. For one, I think we can be more clear going forward with regards to establishing what the purpose of the usability test is. We may have underestimated the possibility of this happening. I also believe the fact that the user was easily able to understand the app’s functionality meant he ended up sort of looking for other things to talk about or comment on. We also did not write out the tasks this time, and I think going forward it will be helpful to print out the tasks so that the user can see very explicitly what his direction is.</p>
+
+<h2 id="critical-incidents">Critical Incidents</h2>
+
+<h3 id="about-vs-learn-more">“About” vs “Learn More”</h3>
+
+<figure>
+<img src="../assets/images/paper-prototype-about.jpg" alt="About" style="max-width: 100%;" />
+<figcaption>About screen under artwork profile</figcaption>
+</figure>
+<figure>
+<img src="../assets/images/paper-prototype-learnmore.jpg" alt="Learn More" style="max-width: 100%;" />
+<figcaption>Learn More screen under artwork profile</figcaption>
+</figure>
+
+<p><strong>Incident:</strong> While trying to navigate to a page that contained the inspiration for an artwork, we realized that it wasn’t clear to a general user whether the inspiration information should be under “about” or “learn more.” This led us to believe we may want to put more information about the inspiration and context under the “about” tab, and leave very in-depth understanding to the “learn more” section (e.g. further information about the artist and the history of the movement).</p>
+
+<p><strong>Severity Level:</strong> 3 (This is one of the main tasks our app is trying to support).</p>
+
+<p><strong>Revision:</strong> Modifying the “Learn More” section to be a series of very in-depth information and having the “About” page contain information that used to be in the “Learn More” section.</p>
+
+<figure>
+<img src="../assets/images/pp-about.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>New About Page</figcaption>
+</figure>
+
+<figure>
+<img src="../assets/images/pp-learn-more.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>New Learn More Page</figcaption>
+</figure>
+
+<h3 id="qr-code-scanner">QR Code Scanner</h3>
+
+<figure>
+<img src="../assets/images/paper-prototype-qrscan.jpg" alt="QR Scanner" style="max-width: 100%;" />
+<figcaption>QR Scanner</figcaption>
+</figure>
+
+<p><strong>Incident:</strong> While trying to “fake” taking a scan of the QR code, our user noted that he didn’t really know where to put the QR code, and that it would be nice to have a box on the camera screen so the user knows exactly where to put it.</p>
+
+<p><strong>Severity Level:</strong> 1</p>
+
+<p><strong>Revision:</strong> Simply adding a box/grid layout to make it easier for the user.</p>
+
+<figure>
+<img src="../assets/images/pp-cam-2.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>Updated QR code screen</figcaption>
+</figure>
+
+<h3 id="discussion">Discussion</h3>
+
+<figure>
+<img src="../assets/images/paper-prototype-discussion-1.jpg" alt="Discussion" style="max-width: 100%;" />
+<figcaption>Discussion</figcaption>
+</figure>
+
+<p><strong>Incident:</strong> This was a positive incident; our user was quickly and easily able to locate the “discussion” section and understand the gist of the interface and how it would operate. This is likely because discussions like this exist in similar formats on other platforms.</p>
+
+<h2 id="updated-design">Updated Design</h2>
+
+<figure>
+<img src="../assets/images/pp-overview.jpg" alt="Overview" style="max-width: 100%;" />
+<figcaption>Overview of Revised Prototype</figcaption>
+</figure>
+
+<h3 id="task-1-finding-background-information">Task 1: Finding background information</h3>
+
+<figure>
+<img src="../assets/images/pp-cam-1.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>User begins in search function</figcaption>
+</figure>
+<figure>
+<img src="../assets/images/pp-cam-2.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>User chooses QR code scan</figcaption>
+</figure>
+<figure>
+<img src="../assets/images/pp-qr.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>User scans QR code</figcaption>
+</figure>
+<figure>
+<img src="../assets/images/pp-about.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>App scans QR and navigates to artwork profile, beginning in About section</figcaption>
+</figure>
+<figure>
+<img src="../assets/images/pp-about-inspo.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>User clicks on inspiration</figcaption>
+</figure>
+<figure>
+<img src="../assets/images/pp-learn-more.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>User clicks on Learn More</figcaption>
+</figure>
+
+<h3 id="task-2-discussing-art-with-others">Task 2: Discussing art with others</h3>
+
+<figure>
+<img src="../assets/images/pp-about.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>User begins on front page of artwork’s profile</figcaption>
+</figure>
+<figure>
+<img src="../assets/images/pp-discuss.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>User clicks on Discussion and writes a brief comment</figcaption>
+</figure>
+<figure>
+<img src="../assets/images/pp-discuss-2.jpg" alt="cam" style="max-width: 100%;" />
+<figcaption>User submits comment, and it shows up at the top of the comments section</figcaption>
+</figure>
+
+<h2 id="going-forward">Going Forward</h2>
+
+<p>For our next usability tests, we may try to recruit an older person, although this will admittedly be much harder to do. Professors are generally busy, and we don’t know many older members of the community. If we cannot find an older user, we will still try to recruit people from different demographic backgrounds. We will try to recruit at least one user who is very well-versed in art history and art, and one who is not very interested in art and only consumes art through museums. We will try to rotate roles for the remaining tests so that everyone gets a chance at trying out each role. We have already mentioned some things we will try to change for upcoming usability tests, with the major one being establishing very up front that we are not exactly looking for the participant’s opinion on our interfaces during usability testing. We will also print out instructions for the tasks going forward.</p>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+      </footer>
+
+      
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+    
+    
+    
+    
+    <li><a href="http://localhost:4000/hciproject/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2018 Art for All. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="http://localhost:4000/hciproject/assets/js/main.min.js"></script>
+  <script src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
+
+
+
+
+
+
+
+  </body>
+</html>

@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Project Proposal"
-    url: /project-proposal/
-  - title: "Team Contract"
-    url: /team-contract/
+  - title: "Project Page"
+    url: http://stephanieliu.me/artforall/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
